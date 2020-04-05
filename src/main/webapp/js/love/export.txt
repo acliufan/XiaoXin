@@ -1,0 +1,11 @@
+ <link rel="stylesheet" href="/js/love/default.css"/>
+    <script src="/js/love/jquery.min.js"></script>
+    <script src="/js/love/jscex.min.js"></script>
+    <script src="/js/love/jscex-parser.js"></script>
+    <script src="/js/love/jscex-jit.js"></script>
+    <script src="/js/love/jscex-builderbase.min.js"></script>
+    <script src="/js/love/jscex-async.min.js"></script>
+    <script src="/js/love/jscex-async-powerpack.min.js"></script>
+    <script src="/js/love/functions.js" charset="utf-8"></script>
+    <script src="/js/love/jscex-builderbase.min.js"></script>
+    <script src="/js/love/love.js" charset="utf-8"></script>

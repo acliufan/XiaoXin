@@ -1,0 +1,8 @@
+﻿	.sgcollapsed{
+	  background:url(/assets/images/glyphicons-halflings.png) no-repeat;width:18px; line-height:18px;
+	  background-position:-1% 70%;
+	}
+	.sgexpanded{
+	  background:url(/assets/images/glyphicons-halflings.png) no-repeat;width:18px; line-height:18px;
+	  background-position:4% 70%;
+	}

@@ -1,0 +1,17 @@
+.step:before{
+	display:block;
+	position:absolute;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+	line-height:30px;
+	text-align:center;
+	border-radius:100%;
+	content:"\f00d";
+	background-color:#FFF;
+	z-index:3;
+	font-family:FontAwesome;
+	font-size:17px;
+	color:#DD0000
+}

@@ -1,0 +1,157 @@
+.sidebar:before {
+	content: "";
+	display: block;
+	width: 190px;
+	position: fixed;
+	bottom: 0;
+	top: 0;
+	z-index: -1;
+	background-color: #47A0DB; /*rgb(167, 192, 220)整个树形窗背景颜色*/
+	/*background-image: url(/images/navbarimg.png);*/
+	border: 1px solid #95B8E7;
+	border-width: 0 1px 0 0
+}
+
+.nav-list > li {
+	display: block;
+	padding: 0;
+	margin: 0;
+	border: 0;
+	border-top: 0px solid #fcfcfc; /*上边框的距离*/
+	border-bottom: 0px solid #e5e5e5; /*下边框的距离*/
+	position: relative
+}
+
+.menu-text {
+	font-size: 14px; /*没展开的时候，字体大小*/
+}
+
+.nav-list > li > a {
+	display: block;
+	height: 38px;
+	line-height: 36px;
+	padding: 0 16px 0 7px;
+	color: #FFFFFF; /*rgb(33,41,62);*/
+	background-color: #47A0DB; /*rgb(167, 192, 220);各个没有点开之前的树枝的背景颜色*/
+	/*background-image: url(/images/navbarimg.png);*/
+	text-shadow: none !important;
+	font-size: 14px;
+	text-decoration: none
+}
+
+.nav-list > li > a > .arrow {
+	color: #FFFFFF
+}
+
+/*后侧的箭头颜色*/
+.nav-list > li.open > a > .arrow {
+	color: #FFFFFF; /*#00ffff*/
+}
+/*后侧的箭头颜色*/
+
+.nav-list > li > a:focus {
+	background-color: rgb(0, 0, 0); /*#f9f9f9;没有效果*/
+	color: #FFFFFF; /*#8fab81;*/
+}
+
+.nav-list > li > a:hover {
+	background-color: #2D86C1; /*rgb(75, 139, 201);树形未展开之前鼠标滑过的效果*/
+	color: #FFFFFF; /*#00ffff;*/
+}
+
+.nav-list > li.open > a {
+	background-color: #2D86C1; /*rgb(75, 139, 201);树形展开之后的效果*/
+	color: #FFFFFF; /*#00ffff;*/
+}
+
+.nav-list > li.open > a:hover {
+	background-color: #2D86C1; /*rgb(75, 139, 201);树形展开之后鼠标滑过的效果*/
+	color: #FFFFFF; /*#00ffff;*/
+}
+
+.nav-list > li .submenu > li > a {
+	display: block;
+	position: relative;
+	color: #FFFFFF; /*rgb(0, 0, 0);*/
+	background-color: #47A0DB; /*rgb(245, 245, 245);子菜单背景的效果*/
+	/*background-image: url(/images/navbarimg.png);*/
+	padding: 7px 0 9px 37px;
+	margin: 0;
+	border-top: 1px dotted #e4e4e4
+}
+
+.nav-list > li .submenu > li > a:focus {
+	text-decoration: none
+}
+
+.nav-list > li .submenu > li > a:hover {
+	text-decoration: none;
+	background-color: rgb(44, 139, 201);
+	color: rgb(255, 255, 255);
+}
+
+.nav-list > li .submenu > li > a:active {
+	color: #FFFFFF;
+}
+
+.nav-list > li .submenu > li.open > a {
+	/*下级菜单被打开以后的样式*/
+	background-color: #195780; /*rgb(44, 139, 201);*/
+	color: #FFFFFF;
+}
+
+.nav-list > li .submenu > li.open > a:hover {
+	/*下级菜单被打开以后，鼠标滑过的样式*/
+	background-color: #195780; /*rgb(44, 139, 201);*/
+	color: #FFFFFF;
+}
+
+.nav-list > li .submenu > li.open > a:active {
+	/*下级菜单被打开以后，鼠标再次点击时候的样式*/
+	background-color: #195780; /*rgb(44, 139, 201);*/
+	color: #FFFFFF; /*#000000;*/
+}
+
+.nav-list > li .submenu > li.open > a:focus {
+	/*没看出效果*/
+	background-color: #195780; /*rgb(44, 139, 201);*/
+	color: #FFFFFF;
+}
+
+.nav-list > li > .submenu li > .submenu > li > a {
+	/*下下级菜单的样式*/
+	font-size: 13px;
+	color: #FFFFFF;
+	margin-left: 0px; /*去掉打开下下级菜单左侧白色区域*/
+	padding-left: 52px;
+}
+
+.nav-list > li > .submenu li > .submenu > li a:hover {
+	/*下下级菜单鼠标滑过的样式*/
+	color: #FFFFFF;
+	background-color: #195780;
+	text-decoration: underline;
+}
+
+.nav-list > li .submenu > li .submenu > li.open > a {
+	/*下下级菜单鼠标打开的样式*/
+	color: #FFFFFF;
+	background-color: #195780;
+}
+
+.sidebar-collapse {
+	border-bottom: 1px solid #e0e0e0;
+	background-color: #47A0DB; /*rgb(167, 192, 220);*/
+	/*background-image: url(/images/sidebarcollapse.png);*/
+	text-align: center;
+	padding: 3px 0;
+	position: relative
+}
+
+.ace-nav > li {
+	line-height: 0px;
+}
+
+.ace-nav>li.light-blue>a {
+	background-color: rgb(115,179,241);
+}

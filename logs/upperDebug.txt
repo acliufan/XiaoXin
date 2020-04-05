@@ -1,0 +1,1281 @@
+2020-04-05 00:05:51,695  | 有新连接加入！当前在线人数为1
+2020-04-05 00:05:51,709  | 加入用户为：【小刘】
+2020-04-05 00:05:54,227  | 来自客户端的消息:{"msg":"dsa","name":"小刘","subject":"dsa"}
+2020-04-05 00:07:36,764  | 有一连接关闭！当前在线人数为0
+2020-04-05 00:07:37,600  | 有新连接加入！当前在线人数为1
+2020-04-05 00:07:37,602  | 加入用户为：【小刘】
+2020-04-05 00:07:40,554  | 来自客户端的消息:{"msg":"dasdsa","name":"小刘","subject":"das"}
+2020-04-05 00:12:24,827  | 有一连接关闭！当前在线人数为0
+2020-04-05 00:12:25,784  | 有新连接加入！当前在线人数为1
+2020-04-05 00:12:25,784  | 加入用户为：【小刘】
+2020-04-05 00:12:28,396  | 来自客户端的消息:{"msg":"dsa","name":"小刘","subject":"das"}
+2020-04-05 00:12:51,976  | 有一连接关闭！当前在线人数为0
+2020-04-05 00:12:52,880  | 有新连接加入！当前在线人数为1
+2020-04-05 00:12:52,881  | 加入用户为：【小刘】
+2020-04-05 00:12:55,746  | 来自客户端的消息:{"msg":"das","name":"小刘","subject":"das"}
+2020-04-05 00:17:55,750  | 发生错误
+2020-04-05 00:17:55,750  | 有一连接关闭！当前在线人数为0
+2020-04-05 00:18:03,099  | 有新连接加入！当前在线人数为1
+2020-04-05 00:18:03,099  | 加入用户为：【小刘】
+2020-04-05 00:18:06,558  | 来自客户端的消息:{"msg":"das","name":"小刘","subject":"das"}
+2020-04-05 00:18:28,248  | 来自客户端的消息:{"msg":"das","name":"小刘","subject":"das"}
+2020-04-05 00:18:34,885  | 有一连接关闭！当前在线人数为0
+2020-04-05 00:18:35,701  | 有新连接加入！当前在线人数为1
+2020-04-05 00:18:35,702  | 加入用户为：【小刘】
+2020-04-05 00:18:43,870  | 来自客户端的消息:{"msg":"dsa","name":"小刘","subject":"dsa"}
+2020-04-05 00:21:00,214  | 有一连接关闭！当前在线人数为0
+2020-04-05 00:21:04,904  | 有新连接加入！当前在线人数为1
+2020-04-05 00:21:04,904  | 加入用户为：【小刘】
+2020-04-05 00:21:54,871  | 有新连接加入！当前在线人数为2
+2020-04-05 00:21:54,872  | 加入用户为：【信佳昕】
+2020-04-05 00:23:58,113  | 来自客户端的消息:{"msg":"dasdsa","name":"信佳昕","subject":"小刘"}
+2020-04-05 00:25:14,950  | 有一连接关闭！当前在线人数为1
+2020-04-05 00:25:16,108  | 有新连接加入！当前在线人数为2
+2020-04-05 00:25:16,108  | 加入用户为：【小刘】
+2020-04-05 00:25:28,160  | 来自客户端的消息:{"msg":"dasdas","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:29:42,504  | 来自客户端的消息:{"msg":"dasdas","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:29:43,471  | 来自客户端的消息:{"msg":"dasdas","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:29:43,970  | 来自客户端的消息:{"msg":"dasdas","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:29:46,304  | 来自客户端的消息:{"msg":"dasdas","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:29:46,671  | 来自客户端的消息:{"msg":"dasdas","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:29:46,921  | 来自客户端的消息:{"msg":"dasdas","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:29:47,089  | 来自客户端的消息:{"msg":"dasdas","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:31:14,735  | 来自客户端的消息:{"msg":"dasdsa","name":"信佳昕","subject":"小刘"}
+2020-04-05 00:31:20,348  | 来自客户端的消息:{"msg":"dasdsa","name":"信佳昕","subject":"小刘"}
+2020-04-05 00:31:23,437  | 有一连接关闭！当前在线人数为1
+2020-04-05 00:31:24,595  | 有新连接加入！当前在线人数为2
+2020-04-05 00:31:24,595  | 加入用户为：【信佳昕】
+2020-04-05 00:31:27,081  | 来自客户端的消息:{"msg":"dsa","name":"信佳昕","subject":"dsa"}
+2020-04-05 00:31:29,513  | 来自客户端的消息:{"msg":"dsa","name":"信佳昕","subject":"dsa"}
+2020-04-05 00:31:38,392  | 有一连接关闭！当前在线人数为1
+2020-04-05 00:31:39,251  | 有新连接加入！当前在线人数为2
+2020-04-05 00:31:39,251  | 加入用户为：【小刘】
+2020-04-05 00:32:02,044  | 来自客户端的消息:{"msg":"dsa","name":"小刘","subject":"dsa"}
+2020-04-05 00:32:04,514  | 来自客户端的消息:{"msg":"dsa","name":"小刘","subject":"dsa"}
+2020-04-05 00:33:02,329  | 有一连接关闭！当前在线人数为1
+2020-04-05 00:33:03,433  | 有新连接加入！当前在线人数为2
+2020-04-05 00:33:03,433  | 加入用户为：【小刘】
+2020-04-05 00:33:05,577  | 来自客户端的消息:{"msg":"das","name":"小刘","subject":"das"}
+2020-04-05 00:33:10,224  | 来自客户端的消息:{"msg":"das","name":"小刘","subject":"das"}
+2020-04-05 00:33:15,639  | 来自客户端的消息:{"msg":"das","name":"小刘","subject":"das"}
+2020-04-05 00:34:17,468  | 来自客户端的消息:{"msg":"das","name":"小刘","subject":"das"}
+2020-04-05 00:36:29,520  | 发生错误
+2020-04-05 00:36:29,520  | 有一连接关闭！当前在线人数为1
+2020-04-05 00:39:17,470  | 发生错误
+2020-04-05 00:39:17,471  | 有一连接关闭！当前在线人数为0
+2020-04-05 00:45:21,089  | 有新连接加入！当前在线人数为1
+2020-04-05 00:45:21,090  | 加入用户为：【小刘】
+2020-04-05 00:45:25,362  | 有新连接加入！当前在线人数为2
+2020-04-05 00:45:25,362  | 加入用户为：【信佳昕】
+2020-04-05 00:45:36,185  | 来自客户端的消息:{"msg":"dsadsa","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:45:56,817  | 来自客户端的消息:{"msg":"dsadsa","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:45:58,741  | 有一连接关闭！当前在线人数为1
+2020-04-05 00:45:59,691  | 有新连接加入！当前在线人数为2
+2020-04-05 00:45:59,692  | 加入用户为：【小刘】
+2020-04-05 00:46:07,712  | 来自客户端的消息:{"msg":"dasdsa","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:46:46,997  | 来自客户端的消息:{"msg":"dsadas","name":"信佳昕","subject":"小刘"}
+2020-04-05 00:48:39,320  | 来自客户端的消息:{"msg":"dasdsa","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:49:30,001  | 来自客户端的消息:{"msg":"dasdsa","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:49:57,283  | 有一连接关闭！当前在线人数为1
+2020-04-05 00:49:58,339  | 有新连接加入！当前在线人数为2
+2020-04-05 00:49:58,339  | 加入用户为：【信佳昕】
+2020-04-05 00:50:05,076  | 来自客户端的消息:{"msg":"dsadsa","name":"信佳昕","subject":"小刘"}
+2020-04-05 00:50:23,835  | 有一连接关闭！当前在线人数为1
+2020-04-05 00:50:24,646  | 有新连接加入！当前在线人数为2
+2020-04-05 00:50:24,646  | 加入用户为：【小刘】
+2020-04-05 00:50:35,729  | 来自客户端的消息:{"msg":"da","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:50:57,361  | 来自客户端的消息:{"msg":"da","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:51:38,921  | 有一连接关闭！当前在线人数为1
+2020-04-05 00:51:39,757  | 有新连接加入！当前在线人数为2
+2020-04-05 00:51:39,757  | 加入用户为：【小刘】
+2020-04-05 00:51:49,464  | 来自客户端的消息:{"msg":"dasdsa","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:51:53,939  | 有一连接关闭！当前在线人数为1
+2020-04-05 00:51:54,939  | 有新连接加入！当前在线人数为2
+2020-04-05 00:51:54,939  | 加入用户为：【信佳昕】
+2020-04-05 00:51:59,223  | 来自客户端的消息:{"msg":"dasdsa","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:52:03,556  | 来自客户端的消息:{"msg":"dasdsa","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:52:12,508  | 来自客户端的消息:{"msg":"dsadsa","name":"信佳昕","subject":"小刘"}
+2020-04-05 00:57:12,509  | 发生错误
+2020-04-05 00:57:12,510  | 有一连接关闭！当前在线人数为1
+2020-04-05 00:57:12,511  | 发生错误
+2020-04-05 00:57:12,529  | 有一连接关闭！当前在线人数为0
+2020-04-05 00:58:47,667  | 有新连接加入！当前在线人数为1
+2020-04-05 00:58:47,667  | 加入用户为：【小刘】
+2020-04-05 00:58:50,966  | 有新连接加入！当前在线人数为2
+2020-04-05 00:58:50,966  | 加入用户为：【信佳昕】
+2020-04-05 00:59:22,584  | 来自客户端的消息:{"msg":"dasdsa","name":"小刘","subject":"信佳昕"}
+2020-04-05 00:59:33,199  | 来自客户端的消息:{"msg":"dsaa","name":"信佳昕","subject":"小刘"}
+2020-04-05 01:01:55,370  | 有一连接关闭！当前在线人数为1
+2020-04-05 01:01:56,318  | 有新连接加入！当前在线人数为2
+2020-04-05 01:01:56,319  | 加入用户为：【小刘】
+2020-04-05 01:02:24,523  | 有一连接关闭！当前在线人数为1
+2020-04-05 01:02:25,457  | 有新连接加入！当前在线人数为2
+2020-04-05 01:02:25,457  | 加入用户为：【小刘】
+2020-04-05 01:02:35,453  | 有一连接关闭！当前在线人数为1
+2020-04-05 01:02:36,281  | 有新连接加入！当前在线人数为2
+2020-04-05 01:02:36,282  | 加入用户为：【小刘】
+2020-04-05 01:03:23,213  | 有一连接关闭！当前在线人数为1
+2020-04-05 01:03:24,096  | 有新连接加入！当前在线人数为2
+2020-04-05 01:03:24,097  | 加入用户为：【小刘】
+2020-04-05 01:04:33,202  | 发生错误
+2020-04-05 01:04:33,203  | 有一连接关闭！当前在线人数为1
+2020-04-05 01:06:00,688  | 有一连接关闭！当前在线人数为0
+2020-04-05 01:06:02,833  | 有新连接加入！当前在线人数为1
+2020-04-05 01:06:02,833  | 加入用户为：【小刘】
+2020-04-05 01:06:13,608  | 来自客户端的消息:heartBeat
+2020-04-05 01:07:48,326  | 有一连接关闭！当前在线人数为0
+2020-04-05 01:07:49,193  | 有新连接加入！当前在线人数为1
+2020-04-05 01:07:49,193  | 加入用户为：【小刘】
+2020-04-05 01:07:52,014  | 有新连接加入！当前在线人数为2
+2020-04-05 01:07:52,015  | 加入用户为：【信佳昕】
+2020-04-05 01:08:00,368  | 来自客户端的消息:heartBeat
+2020-04-05 01:08:03,055  | 来自客户端的消息:heartBeat
+2020-04-05 01:08:36,425  | 有一连接关闭！当前在线人数为1
+2020-04-05 01:08:37,331  | 有新连接加入！当前在线人数为2
+2020-04-05 01:08:37,331  | 加入用户为：【小刘】
+2020-04-05 01:08:40,201  | 有一连接关闭！当前在线人数为1
+2020-04-05 01:08:41,106  | 有新连接加入！当前在线人数为2
+2020-04-05 01:08:41,106  | 加入用户为：【信佳昕】
+2020-04-05 01:08:47,936  | 来自客户端的消息:heartBeat
+2020-04-05 01:08:51,843  | 来自客户端的消息:heartBeat
+2020-04-05 01:08:57,939  | 来自客户端的消息:heartBeat
+2020-04-05 01:09:01,846  | 来自客户端的消息:heartBeat
+2020-04-05 01:09:07,942  | 来自客户端的消息:heartBeat
+2020-04-05 01:09:11,848  | 来自客户端的消息:heartBeat
+2020-04-05 01:09:17,944  | 来自客户端的消息:heartBeat
+2020-04-05 01:09:21,851  | 来自客户端的消息:heartBeat
+2020-04-05 01:09:27,097  | 来自客户端的消息:{"msg":"dsadsa","name":"小刘","subject":"信佳昕"}
+2020-04-05 01:09:27,946  | 来自客户端的消息:heartBeat
+2020-04-05 01:09:37,102  | 来自客户端的消息:heartBeat
+2020-04-05 01:09:37,949  | 来自客户端的消息:heartBeat
+2020-04-05 01:09:47,103  | 来自客户端的消息:heartBeat
+2020-04-05 01:09:47,951  | 来自客户端的消息:heartBeat
+2020-04-05 01:09:57,106  | 来自客户端的消息:heartBeat
+2020-04-05 01:09:57,954  | 来自客户端的消息:heartBeat
+2020-04-05 01:10:07,107  | 来自客户端的消息:heartBeat
+2020-04-05 01:10:07,956  | 来自客户端的消息:heartBeat
+2020-04-05 01:10:08,048  | 来自客户端的消息:{"msg":"dsadsa","name":"小刘","subject":"信佳昕"}
+2020-04-05 01:10:17,959  | 来自客户端的消息:heartBeat
+2020-04-05 01:10:18,051  | 来自客户端的消息:heartBeat
+2020-04-05 01:10:27,960  | 来自客户端的消息:heartBeat
+2020-04-05 01:10:28,053  | 来自客户端的消息:heartBeat
+2020-04-05 01:10:37,963  | 来自客户端的消息:heartBeat
+2020-04-05 01:10:38,056  | 来自客户端的消息:heartBeat
+2020-04-05 01:10:47,965  | 来自客户端的消息:heartBeat
+2020-04-05 01:10:48,058  | 来自客户端的消息:heartBeat
+2020-04-05 01:10:57,967  | 来自客户端的消息:heartBeat
+2020-04-05 01:10:58,060  | 来自客户端的消息:heartBeat
+2020-04-05 01:11:07,970  | 来自客户端的消息:heartBeat
+2020-04-05 01:11:08,063  | 来自客户端的消息:heartBeat
+2020-04-05 01:11:17,971  | 来自客户端的消息:heartBeat
+2020-04-05 01:11:18,065  | 来自客户端的消息:heartBeat
+2020-04-05 01:11:27,973  | 来自客户端的消息:heartBeat
+2020-04-05 01:11:28,082  | 来自客户端的消息:heartBeat
+2020-04-05 01:11:37,974  | 来自客户端的消息:heartBeat
+2020-04-05 01:11:38,084  | 来自客户端的消息:heartBeat
+2020-04-05 01:11:47,976  | 来自客户端的消息:heartBeat
+2020-04-05 01:11:48,086  | 来自客户端的消息:heartBeat
+2020-04-05 01:11:57,979  | 来自客户端的消息:heartBeat
+2020-04-05 01:11:58,089  | 来自客户端的消息:heartBeat
+2020-04-05 01:12:06,019  | 有一连接关闭！当前在线人数为1
+2020-04-05 01:12:06,795  | 有新连接加入！当前在线人数为2
+2020-04-05 01:12:06,795  | 加入用户为：【小刘】
+2020-04-05 01:12:08,091  | 来自客户端的消息:heartBeat
+2020-04-05 01:12:17,423  | 来自客户端的消息:heartBeat
+2020-04-05 01:12:18,094  | 来自客户端的消息:heartBeat
+2020-04-05 01:12:27,425  | 来自客户端的消息:heartBeat
+2020-04-05 01:12:28,095  | 来自客户端的消息:heartBeat
+2020-04-05 01:12:37,428  | 来自客户端的消息:heartBeat
+2020-04-05 01:12:38,097  | 来自客户端的消息:heartBeat
+2020-04-05 01:12:47,546  | 来自客户端的消息:heartBeat
+2020-04-05 01:12:48,099  | 来自客户端的消息:heartBeat
+2020-04-05 01:12:58,102  | 来自客户端的消息:heartBeat
+2020-04-05 01:12:58,547  | 来自客户端的消息:heartBeat
+2020-04-05 01:13:08,105  | 来自客户端的消息:heartBeat
+2020-04-05 01:13:09,551  | 来自客户端的消息:heartBeat
+2020-04-05 01:13:18,126  | 来自客户端的消息:heartBeat
+2020-04-05 01:13:20,546  | 来自客户端的消息:heartBeat
+2020-04-05 01:13:28,129  | 来自客户端的消息:heartBeat
+2020-04-05 01:13:31,550  | 来自客户端的消息:heartBeat
+2020-04-05 01:13:38,131  | 来自客户端的消息:heartBeat
+2020-04-05 01:13:42,547  | 来自客户端的消息:heartBeat
+2020-04-05 01:13:48,133  | 来自客户端的消息:heartBeat
+2020-04-05 01:13:53,547  | 来自客户端的消息:heartBeat
+2020-04-05 01:13:58,135  | 来自客户端的消息:heartBeat
+2020-04-05 01:14:02,290  | 有一连接关闭！当前在线人数为1
+2020-04-05 01:14:03,114  | 有新连接加入！当前在线人数为2
+2020-04-05 01:14:03,115  | 加入用户为：【小刘】
+2020-04-05 01:14:08,138  | 来自客户端的消息:heartBeat
+2020-04-05 01:14:13,823  | 来自客户端的消息:heartBeat
+2020-04-05 01:14:14,352  | 有一连接关闭！当前在线人数为1
+2020-04-05 01:14:15,372  | 有新连接加入！当前在线人数为2
+2020-04-05 01:14:15,372  | 加入用户为：【小刘】
+2020-04-05 01:14:18,141  | 来自客户端的消息:heartBeat
+2020-04-05 01:14:26,232  | 来自客户端的消息:heartBeat
+2020-04-05 01:14:28,143  | 来自客户端的消息:heartBeat
+2020-04-05 01:14:36,237  | 来自客户端的消息:heartBeat
+2020-04-05 01:14:38,146  | 来自客户端的消息:heartBeat
+2020-04-05 01:14:46,240  | 来自客户端的消息:heartBeat
+2020-04-05 01:14:48,147  | 来自客户端的消息:heartBeat
+2020-04-05 01:14:56,243  | 来自客户端的消息:heartBeat
+2020-04-05 01:14:58,152  | 来自客户端的消息:heartBeat
+2020-04-05 01:14:58,935  | 有一连接关闭！当前在线人数为1
+2020-04-05 01:15:01,457  | 有新连接加入！当前在线人数为2
+2020-04-05 01:15:01,457  | 加入用户为：【小刘】
+2020-04-05 01:15:07,860  | 有一连接关闭！当前在线人数为1
+2020-04-05 01:15:08,799  | 有新连接加入！当前在线人数为2
+2020-04-05 01:15:08,800  | 加入用户为：【信佳昕】
+2020-04-05 01:15:12,575  | 来自客户端的消息:heartBeat
+2020-04-05 01:15:19,399  | 来自客户端的消息:heartBeat
+2020-04-05 01:15:22,578  | 来自客户端的消息:heartBeat
+2020-04-05 01:15:29,403  | 来自客户端的消息:heartBeat
+2020-04-05 01:15:30,351  | 有一连接关闭！当前在线人数为1
+2020-04-05 01:15:31,458  | 有新连接加入！当前在线人数为2
+2020-04-05 01:15:31,459  | 加入用户为：【小刘】
+2020-04-05 01:15:35,067  | 有一连接关闭！当前在线人数为1
+2020-04-05 01:15:35,861  | 有新连接加入！当前在线人数为2
+2020-04-05 01:15:35,861  | 加入用户为：【信佳昕】
+2020-04-05 01:15:42,206  | 来自客户端的消息:heartBeat
+2020-04-05 01:15:46,704  | 来自客户端的消息:heartBeat
+2020-04-05 01:15:50,592  | 有一连接关闭！当前在线人数为1
+2020-04-05 01:15:52,023  | 有一连接关闭！当前在线人数为0
+2020-04-05 01:18:09,689  | Root WebApplicationContext: initialization started
+2020-04-05 01:18:09,930  | Refreshing Root WebApplicationContext: startup date [Sun Apr 05 01:18:09 CST 2020]; root of context hierarchy
+2020-04-05 01:18:09,986  | Loading XML bean definitions from class path resource [META-INF/applicationContext.xml]
+2020-04-05 01:18:14,666  | Loading properties file from class path resource [META-INF/hibernateConfig/config.properties]
+2020-04-05 01:18:14,705  | JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-04-05 01:18:15,091  | MLog clients using log4j logging.
+2020-04-05 01:18:15,516  | Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2020-04-05 01:18:15,916  | Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-04-05 01:18:16,007  | HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-04-05 01:18:16,196  | HHH000412: Hibernate Core {4.3.5.Final}
+2020-04-05 01:18:16,201  | HHH000206: hibernate.properties not found
+2020-04-05 01:18:16,204  | HHH000021: Bytecode provider name : javassist
+2020-04-05 01:18:16,605  | HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2020-04-05 01:18:16,795  | Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgfc3la9jh7jptk9ydqp|3edb0c1e, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgfc3la9jh7jptk9ydqp|3edb0c1e, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/zbqc_lf?useUnicode=true&characterEncoding=UTF8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 20, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 40, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 1, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2020-04-05 01:18:17,368  | HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2020-04-05 01:18:17,381  | HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2020-04-05 01:18:17,596  | HHH000397: Using ASTQueryTranslatorFactory
+2020-04-05 01:18:18,081  | Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-04-05 01:18:18,493  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 01:18:18,521  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 01:18:18,541  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 01:18:18,977  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 01:18:18,979  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 01:18:18,981  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 01:18:19,512  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 01:18:19,516  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 01:18:19,526  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 01:18:19,553  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 01:18:19,971  | HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-04-05 01:18:19,972  | HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2020-04-05 01:18:19,986  | HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-04-05 01:18:19,987  | HHH000397: Using ASTQueryTranslatorFactory
+2020-04-05 01:18:20,004  | HHH000228: Running hbm2ddl schema update
+2020-04-05 01:18:20,004  | HHH000102: Fetching database metadata
+2020-04-05 01:18:20,010  | HHH000396: Updating schema
+2020-04-05 01:18:20,045  | HHH000261: Table found: zbqc_lf.person
+2020-04-05 01:18:20,045  | HHH000037: Columns: [address, phone, created, remark, id, username, lastname]
+2020-04-05 01:18:20,045  | HHH000108: Foreign keys: []
+2020-04-05 01:18:20,045  | HHH000126: Indexes: [primary]
+2020-04-05 01:18:20,062  | HHH000261: Table found: zbqc_lf.userinfo
+2020-04-05 01:18:20,062  | HHH000037: Columns: [address, phone, created, remark, id, username]
+2020-04-05 01:18:20,062  | HHH000108: Foreign keys: []
+2020-04-05 01:18:20,064  | HHH000126: Indexes: [primary]
+2020-04-05 01:18:20,065  | HHH000232: Schema update complete
+2020-04-05 01:18:20,281  | Root WebApplicationContext: initialization completed in 10571 ms
+2020-04-05 01:18:20,483  | FrameworkServlet 'springDispatcherServlet': initialization started
+2020-04-05 01:18:20,487  | Refreshing WebApplicationContext for namespace 'springDispatcherServlet-servlet': startup date [Sun Apr 05 01:18:20 CST 2020]; parent: Root WebApplicationContext
+2020-04-05 01:18:20,488  | Loading XML bean definitions from class path resource [META-INF/spring-mvc.xml]
+2020-04-05 01:18:20,661  | Overriding bean definition for bean 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping' with a different definition: replacing [Root bean: class [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null]
+2020-04-05 01:18:20,662  | Overriding bean definition for bean 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter' with a different definition: replacing [Root bean: class [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null]
+2020-04-05 01:18:20,662  | Overriding bean definition for bean 'mvcUriComponentsContributor' with a different definition: replacing [Root bean: class [org.springframework.web.servlet.config.AnnotationDrivenBeanDefinitionParser$CompositeUriComponentsContributorFactoryBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [org.springframework.web.servlet.config.AnnotationDrivenBeanDefinitionParser$CompositeUriComponentsContributorFactoryBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null]
+2020-04-05 01:18:20,728  | JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-04-05 01:18:21,256  | Mapped "{[/uploader]}" onto public void com.controller.DeduplicationAction.upload(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2020-04-05 01:18:21,261  | Mapped "{[/SmileJump]}" onto public java.lang.String com.controller.Smile.Welcome.SmileJump()
+2020-04-05 01:18:21,262  | Mapped "{[/UserLogin]}" onto public void com.controller.Smile.Welcome.UserLogin(java.lang.String,org.springframework.ui.Model,javax.servlet.http.HttpSession,javax.servlet.http.HttpServletResponse,javax.servlet.http.HttpServletRequest)
+2020-04-05 01:18:21,262  | Mapped "{[/ToSmileChat]}" onto public java.lang.String com.controller.Smile.Welcome.ToSmileChat(org.springframework.ui.Model,java.lang.String)
+2020-04-05 01:18:21,262  | Mapped "{[/SmileSubmit],methods=[GET]}" onto public void com.controller.Smile.Welcome.submitName(java.lang.String,javax.servlet.http.HttpServletResponse,javax.servlet.http.HttpServletRequest)
+2020-04-05 01:18:21,263  | Mapped "{[/ToSmileMain]}" onto public java.lang.String com.controller.Smile.Welcome.ToSmileMain(org.springframework.ui.Model,java.lang.String)
+2020-04-05 01:18:21,263  | Mapped "{[/ToLogin]}" onto public java.lang.String com.controller.Smile.Welcome.ToLogin()
+2020-04-05 01:18:21,264  | Mapped "{[/singleChat]}" onto public java.lang.String com.controller.WebSocketTestAction.page2(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,org.springframework.ui.Model,java.lang.String)
+2020-04-05 01:18:21,272  | Mapped "{[/WelcomeAction/test],methods=[GET]}" onto public java.lang.String com.controller.WelcomeAction.test()
+2020-04-05 01:18:21,273  | Mapped "{[/WelcomeAction/submitName],methods=[GET]}" onto public void com.controller.WelcomeAction.submitName(java.lang.String,javax.servlet.http.HttpServletResponse,javax.servlet.http.HttpServletRequest)
+2020-04-05 01:18:21,273  | Mapped "{[/WelcomeAction/loveJump],methods=[GET]}" onto public java.lang.String com.controller.WelcomeAction.loveJump()
+2020-04-05 01:18:21,274  | Mapped "{[/WelcomeAction/WebSocketTest],methods=[GET]}" onto public java.lang.String com.controller.WelcomeAction.WebSocketTest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,org.springframework.ui.Model)
+2020-04-05 01:18:21,274  | Mapped "{[/WelcomeAction/jsonTest],methods=[GET],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.controller.WelcomeAction.jsonTest(javax.servlet.http.HttpServletResponse)
+2020-04-05 01:18:21,274  | Mapped "{[/WelcomeAction/JPAtest],methods=[GET],produces=[text/html;charset=UTF-8]}" onto public java.lang.String com.controller.WelcomeAction.JPAtest()
+2020-04-05 01:18:21,275  | Mapped "{[/WelcomeAction/saveTest],methods=[GET]}" onto public void com.controller.WelcomeAction.saveTest()
+2020-04-05 01:18:21,650  | Looking for @ControllerAdvice: WebApplicationContext for namespace 'springDispatcherServlet-servlet': startup date [Sun Apr 05 01:18:20 CST 2020]; parent: Root WebApplicationContext
+2020-04-05 01:18:21,660  | Detected ResponseBodyAdvice bean in JSONPResponseBodyAdvice
+2020-04-05 01:18:21,660  | Detected ResponseBodyAdvice bean in fastJsonpResponseBodyAdvice
+2020-04-05 01:18:21,661  | Detected ResponseBodyAdvice bean in fastJsonViewResponseBodyAdvice
+2020-04-05 01:18:21,734  | Looking for @ControllerAdvice: WebApplicationContext for namespace 'springDispatcherServlet-servlet': startup date [Sun Apr 05 01:18:20 CST 2020]; parent: Root WebApplicationContext
+2020-04-05 01:18:21,736  | Detected ResponseBodyAdvice bean in JSONPResponseBodyAdvice
+2020-04-05 01:18:21,737  | Detected ResponseBodyAdvice bean in fastJsonpResponseBodyAdvice
+2020-04-05 01:18:21,737  | Detected ResponseBodyAdvice bean in fastJsonViewResponseBodyAdvice
+2020-04-05 01:18:21,776  | Detected ResponseBodyAdvice implementation in JSONPResponseBodyAdvice
+2020-04-05 01:18:21,776  | Detected ResponseBodyAdvice implementation in fastJsonpResponseBodyAdvice
+2020-04-05 01:18:21,776  | Detected ResponseBodyAdvice implementation in fastJsonViewResponseBodyAdvice
+2020-04-05 01:18:21,854  | Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2020-04-05 01:18:21,937  | Detected ResponseBodyAdvice implementation in JSONPResponseBodyAdvice
+2020-04-05 01:18:21,938  | Detected ResponseBodyAdvice implementation in fastJsonpResponseBodyAdvice
+2020-04-05 01:18:21,938  | Detected ResponseBodyAdvice implementation in fastJsonViewResponseBodyAdvice
+2020-04-05 01:18:21,978  | Mapped URL path [/assets/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2020-04-05 01:18:21,981  | Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2020-04-05 01:18:21,983  | Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2020-04-05 01:18:21,986  | Mapped URL path [/img/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2020-04-05 01:18:21,989  | Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+2020-04-05 01:18:21,992  | Mapped URL path [/fonts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+2020-04-05 01:18:21,995  | Mapped URL path [/download/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+2020-04-05 01:18:21,998  | Mapped URL path [/theme/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+2020-04-05 01:18:22,113  | FrameworkServlet 'springDispatcherServlet': initialization completed in 1630 ms
+2020-04-05 01:19:11,402  | 有新连接加入！当前在线人数为1
+2020-04-05 01:19:11,404  | 加入用户为：【小刘】
+2020-04-05 01:19:23,168  | 来自客户端的消息:heartBeat
+2020-04-05 01:19:33,179  | 来自客户端的消息:heartBeat
+2020-04-05 01:19:43,182  | 来自客户端的消息:heartBeat
+2020-04-05 01:19:53,185  | 来自客户端的消息:heartBeat
+2020-04-05 01:20:03,187  | 来自客户端的消息:heartBeat
+2020-04-05 01:20:13,191  | 来自客户端的消息:heartBeat
+2020-04-05 01:20:23,192  | 来自客户端的消息:heartBeat
+2020-04-05 01:20:33,196  | 来自客户端的消息:heartBeat
+2020-04-05 01:20:43,200  | 来自客户端的消息:heartBeat
+2020-04-05 01:20:53,202  | 来自客户端的消息:heartBeat
+2020-04-05 01:21:03,205  | 来自客户端的消息:heartBeat
+2020-04-05 01:21:04,104  | 有一连接关闭！当前在线人数为0
+2020-04-05 01:21:15,178  | 有新连接加入！当前在线人数为1
+2020-04-05 01:21:15,178  | 加入用户为：【小刘】
+2020-04-05 01:21:26,431  | 来自客户端的消息:heartBeat
+2020-04-05 01:21:30,583  | 来自客户端的消息:{"msg":"dasda","name":"小刘","subject":"127.0.0.1"}
+2020-04-05 01:21:42,423  | 来自客户端的消息:heartBeat
+2020-04-05 01:21:52,428  | 来自客户端的消息:heartBeat
+2020-04-05 01:22:02,430  | 来自客户端的消息:heartBeat
+2020-04-05 01:22:12,445  | 来自客户端的消息:heartBeat
+2020-04-05 01:22:22,448  | 来自客户端的消息:heartBeat
+2020-04-05 01:22:25,519  | 有一连接关闭！当前在线人数为0
+2020-04-05 01:22:31,449  | 有新连接加入！当前在线人数为1
+2020-04-05 01:22:31,450  | 加入用户为：【小刘】
+2020-04-05 01:22:42,950  | 来自客户端的消息:heartBeat
+2020-04-05 01:22:52,953  | 来自客户端的消息:heartBeat
+2020-04-05 01:23:02,956  | 来自客户端的消息:heartBeat
+2020-04-05 01:23:12,958  | 来自客户端的消息:heartBeat
+2020-04-05 01:23:22,962  | 来自客户端的消息:heartBeat
+2020-04-05 01:23:32,963  | 来自客户端的消息:heartBeat
+2020-04-05 01:23:42,992  | 来自客户端的消息:heartBeat
+2020-04-05 01:23:53,006  | 来自客户端的消息:heartBeat
+2020-04-05 01:24:03,077  | 来自客户端的消息:heartBeat
+2020-04-05 01:24:10,951  | 有一连接关闭！当前在线人数为0
+2020-04-05 01:24:12,363  | 有新连接加入！当前在线人数为1
+2020-04-05 01:24:12,369  | 加入用户为：【小刘】
+2020-04-05 01:24:26,271  | 来自客户端的消息:heartBeat
+2020-04-05 01:24:36,276  | 来自客户端的消息:heartBeat
+2020-04-05 01:24:41,690  | 有一连接关闭！当前在线人数为0
+2020-04-05 01:24:42,602  | 有新连接加入！当前在线人数为1
+2020-04-05 01:24:42,602  | 加入用户为：【小刘】
+2020-04-05 01:24:53,576  | 来自客户端的消息:heartBeat
+2020-04-05 01:25:03,579  | 来自客户端的消息:heartBeat
+2020-04-05 01:25:04,972  | 有一连接关闭！当前在线人数为0
+2020-04-05 01:25:07,214  | 有新连接加入！当前在线人数为1
+2020-04-05 01:25:07,214  | 加入用户为：【小刘】
+2020-04-05 01:25:18,328  | 来自客户端的消息:heartBeat
+2020-04-05 01:25:28,331  | 来自客户端的消息:heartBeat
+2020-04-05 01:25:38,334  | 来自客户端的消息:heartBeat
+2020-04-05 01:25:48,377  | 来自客户端的消息:heartBeat
+2020-04-05 01:25:58,417  | 来自客户端的消息:heartBeat
+2020-04-05 01:26:08,459  | 来自客户端的消息:heartBeat
+2020-04-05 01:26:18,463  | 来自客户端的消息:heartBeat
+2020-04-05 01:26:28,465  | 来自客户端的消息:heartBeat
+2020-04-05 01:26:38,468  | 来自客户端的消息:heartBeat
+2020-04-05 01:26:48,471  | 来自客户端的消息:heartBeat
+2020-04-05 01:26:58,472  | 来自客户端的消息:heartBeat
+2020-04-05 01:27:08,475  | 来自客户端的消息:heartBeat
+2020-04-05 01:27:18,477  | 来自客户端的消息:heartBeat
+2020-04-05 01:27:27,745  | 有一连接关闭！当前在线人数为0
+2020-04-05 01:27:28,713  | 有新连接加入！当前在线人数为1
+2020-04-05 01:27:28,713  | 加入用户为：【小刘】
+2020-04-05 01:27:38,762  | 来自客户端的消息:heartBeat
+2020-04-05 01:27:43,874  | 有一连接关闭！当前在线人数为0
+2020-04-05 01:27:44,258  | 有新连接加入！当前在线人数为1
+2020-04-05 01:27:44,258  | 加入用户为：【小刘】
+2020-04-05 01:27:46,386  | 有一连接关闭！当前在线人数为0
+2020-04-05 01:27:46,448  | 有新连接加入！当前在线人数为1
+2020-04-05 01:27:46,448  | 加入用户为：【小刘】
+2020-04-05 01:27:50,437  | 有一连接关闭！当前在线人数为0
+2020-04-05 01:27:50,490  | 有新连接加入！当前在线人数为1
+2020-04-05 01:27:50,490  | 加入用户为：【小刘】
+2020-04-05 01:28:01,791  | 来自客户端的消息:heartBeat
+2020-04-05 01:28:11,794  | 来自客户端的消息:heartBeat
+2020-04-05 01:28:21,799  | 来自客户端的消息:heartBeat
+2020-04-05 01:28:31,805  | 来自客户端的消息:heartBeat
+2020-04-05 01:28:41,808  | 来自客户端的消息:heartBeat
+2020-04-05 01:28:44,521  | 有一连接关闭！当前在线人数为0
+2020-04-05 01:28:44,863  | 有新连接加入！当前在线人数为1
+2020-04-05 01:28:44,863  | 加入用户为：【小刘】
+2020-04-05 01:28:52,360  | 有一连接关闭！当前在线人数为0
+2020-04-05 01:28:52,410  | 有新连接加入！当前在线人数为1
+2020-04-05 01:28:52,410  | 加入用户为：【小刘】
+2020-04-05 01:29:00,999  | 来自客户端的消息:{"msg":"dasdas","name":"小刘","subject":"dasdas"}
+2020-04-05 01:29:11,005  | 来自客户端的消息:heartBeat
+2020-04-05 01:29:21,008  | 来自客户端的消息:heartBeat
+2020-04-05 01:29:31,011  | 来自客户端的消息:heartBeat
+2020-04-05 01:29:31,689  | 有一连接关闭！当前在线人数为0
+2020-04-05 01:29:31,751  | 有新连接加入！当前在线人数为1
+2020-04-05 01:29:31,751  | 加入用户为：【小刘】
+2020-04-05 01:29:42,638  | 来自客户端的消息:heartBeat
+2020-04-05 01:29:46,902  | 有一连接关闭！当前在线人数为0
+2020-04-05 01:29:47,254  | 有新连接加入！当前在线人数为1
+2020-04-05 01:29:47,254  | 加入用户为：【小刘】
+2020-04-05 01:29:58,592  | 来自客户端的消息:heartBeat
+2020-04-05 09:21:00,569  | Root WebApplicationContext: initialization started
+2020-04-05 09:21:00,701  | Refreshing Root WebApplicationContext: startup date [Sun Apr 05 09:21:00 CST 2020]; root of context hierarchy
+2020-04-05 09:21:00,755  | Loading XML bean definitions from class path resource [META-INF/applicationContext.xml]
+2020-04-05 09:21:03,801  | Loading properties file from class path resource [META-INF/hibernateConfig/config.properties]
+2020-04-05 09:21:03,823  | JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-04-05 09:21:04,258  | MLog clients using log4j logging.
+2020-04-05 09:21:04,364  | Initializing c3p0-0.9.1.2 [built 21-May-2007 15:04:56; debug? true; trace: 10]
+2020-04-05 09:21:04,645  | Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-04-05 09:21:04,689  | HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2020-04-05 09:21:04,810  | HHH000412: Hibernate Core {4.3.5.Final}
+2020-04-05 09:21:04,815  | HHH000206: hibernate.properties not found
+2020-04-05 09:21:04,818  | HHH000021: Bytecode provider name : javassist
+2020-04-05 09:21:05,176  | HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+2020-04-05 09:21:05,335  | Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 3, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgfc3la9jyggf91rswi25|6a1f63fd, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgfc3la9jyggf91rswi25|6a1f63fd, idleConnectionTestPeriod -> 0, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/zbqc_lf?useUnicode=true&characterEncoding=UTF8, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 20, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 40, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 1, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> null, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2020-04-05 09:21:05,748  | HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2020-04-05 09:21:05,761  | HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2020-04-05 09:21:05,963  | HHH000397: Using ASTQueryTranslatorFactory
+2020-04-05 09:21:06,603  | Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-04-05 09:21:07,045  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 09:21:07,073  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 09:21:07,098  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 09:21:07,397  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 09:21:07,399  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 09:21:07,401  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 09:21:07,984  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 09:21:07,989  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 09:21:08,004  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 09:21:08,042  | Session Metrics {
+    0 nanoseconds spent acquiring 0 JDBC connections;
+    0 nanoseconds spent releasing 0 JDBC connections;
+    0 nanoseconds spent preparing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC statements;
+    0 nanoseconds spent executing 0 JDBC batches;
+    0 nanoseconds spent performing 0 L2C puts;
+    0 nanoseconds spent performing 0 L2C hits;
+    0 nanoseconds spent performing 0 L2C misses;
+    0 nanoseconds spent executing 0 flushes (flushing a total of 0 entities and 0 collections);
+    0 nanoseconds spent executing 0 partial-flushes (flushing a total of 0 entities and 0 collections)
+}
+2020-04-05 09:21:08,427  | HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2020-04-05 09:21:08,428  | HHH000424: Disabling contextual LOB creation as createClob() method threw error : java.lang.reflect.InvocationTargetException
+2020-04-05 09:21:08,439  | HHH000399: Using default transaction strategy (direct JDBC transactions)
+2020-04-05 09:21:08,439  | HHH000397: Using ASTQueryTranslatorFactory
+2020-04-05 09:21:08,458  | HHH000228: Running hbm2ddl schema update
+2020-04-05 09:21:08,458  | HHH000102: Fetching database metadata
+2020-04-05 09:21:08,466  | HHH000396: Updating schema
+2020-04-05 09:21:08,497  | HHH000261: Table found: zbqc_lf.person
+2020-04-05 09:21:08,497  | HHH000037: Columns: [address, phone, created, remark, id, username, lastname]
+2020-04-05 09:21:08,497  | HHH000108: Foreign keys: []
+2020-04-05 09:21:08,497  | HHH000126: Indexes: [primary]
+2020-04-05 09:21:08,520  | HHH000261: Table found: zbqc_lf.userinfo
+2020-04-05 09:21:08,520  | HHH000037: Columns: [address, phone, created, remark, id, username]
+2020-04-05 09:21:08,520  | HHH000108: Foreign keys: []
+2020-04-05 09:21:08,520  | HHH000126: Indexes: [primary]
+2020-04-05 09:21:08,521  | HHH000232: Schema update complete
+2020-04-05 09:21:08,702  | Root WebApplicationContext: initialization completed in 8131 ms
+2020-04-05 09:21:08,919  | FrameworkServlet 'springDispatcherServlet': initialization started
+2020-04-05 09:21:08,923  | Refreshing WebApplicationContext for namespace 'springDispatcherServlet-servlet': startup date [Sun Apr 05 09:21:08 CST 2020]; parent: Root WebApplicationContext
+2020-04-05 09:21:08,924  | Loading XML bean definitions from class path resource [META-INF/spring-mvc.xml]
+2020-04-05 09:21:09,034  | Overriding bean definition for bean 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping' with a different definition: replacing [Root bean: class [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null]
+2020-04-05 09:21:09,034  | Overriding bean definition for bean 'org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter' with a different definition: replacing [Root bean: class [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null]
+2020-04-05 09:21:09,034  | Overriding bean definition for bean 'mvcUriComponentsContributor' with a different definition: replacing [Root bean: class [org.springframework.web.servlet.config.AnnotationDrivenBeanDefinitionParser$CompositeUriComponentsContributorFactoryBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [org.springframework.web.servlet.config.AnnotationDrivenBeanDefinitionParser$CompositeUriComponentsContributorFactoryBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null]
+2020-04-05 09:21:09,088  | JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-04-05 09:21:09,386  | Mapped "{[/uploader]}" onto public void com.controller.DeduplicationAction.upload(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2020-04-05 09:21:09,390  | Mapped "{[/SmileJump]}" onto public java.lang.String com.controller.Smile.Welcome.SmileJump()
+2020-04-05 09:21:09,391  | Mapped "{[/ToXinChat]}" onto public java.lang.String com.controller.Smile.Welcome.ToSmileChat(org.springframework.ui.Model,java.lang.String)
+2020-04-05 09:21:09,391  | Mapped "{[/SmileSubmit],methods=[GET]}" onto public void com.controller.Smile.Welcome.submitName(java.lang.String,javax.servlet.http.HttpServletResponse,javax.servlet.http.HttpServletRequest)
+2020-04-05 09:21:09,391  | Mapped "{[/ToSmileMain]}" onto public java.lang.String com.controller.Smile.Welcome.ToSmileMain(org.springframework.ui.Model,java.lang.String)
+2020-04-05 09:21:09,391  | Mapped "{[/ToLogin]}" onto public java.lang.String com.controller.Smile.Welcome.ToLogin()
+2020-04-05 09:21:09,392  | Mapped "{[/UserLogin]}" onto public void com.controller.Smile.Welcome.UserLogin(java.lang.String,org.springframework.ui.Model,javax.servlet.http.HttpSession,javax.servlet.http.HttpServletResponse,javax.servlet.http.HttpServletRequest)
+2020-04-05 09:21:09,393  | Mapped "{[/singleChat]}" onto public java.lang.String com.controller.WebSocketTestAction.page2(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,org.springframework.ui.Model,java.lang.String)
+2020-04-05 09:21:09,400  | Mapped "{[/WelcomeAction/test],methods=[GET]}" onto public java.lang.String com.controller.WelcomeAction.test()
+2020-04-05 09:21:09,400  | Mapped "{[/WelcomeAction/submitName],methods=[GET]}" onto public void com.controller.WelcomeAction.submitName(java.lang.String,javax.servlet.http.HttpServletResponse,javax.servlet.http.HttpServletRequest)
+2020-04-05 09:21:09,400  | Mapped "{[/WelcomeAction/WebSocketTest],methods=[GET]}" onto public java.lang.String com.controller.WelcomeAction.WebSocketTest(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,org.springframework.ui.Model)
+2020-04-05 09:21:09,401  | Mapped "{[/WelcomeAction/jsonTest],methods=[GET],produces=[application/json;charset=UTF-8]}" onto public java.lang.String com.controller.WelcomeAction.jsonTest(javax.servlet.http.HttpServletResponse)
+2020-04-05 09:21:09,401  | Mapped "{[/WelcomeAction/JPAtest],methods=[GET],produces=[text/html;charset=UTF-8]}" onto public java.lang.String com.controller.WelcomeAction.JPAtest()
+2020-04-05 09:21:09,402  | Mapped "{[/WelcomeAction/loveJump],methods=[GET]}" onto public java.lang.String com.controller.WelcomeAction.loveJump()
+2020-04-05 09:21:09,402  | Mapped "{[/WelcomeAction/saveTest],methods=[GET]}" onto public void com.controller.WelcomeAction.saveTest()
+2020-04-05 09:21:09,702  | Looking for @ControllerAdvice: WebApplicationContext for namespace 'springDispatcherServlet-servlet': startup date [Sun Apr 05 09:21:08 CST 2020]; parent: Root WebApplicationContext
+2020-04-05 09:21:09,711  | Detected ResponseBodyAdvice bean in JSONPResponseBodyAdvice
+2020-04-05 09:21:09,712  | Detected ResponseBodyAdvice bean in fastJsonpResponseBodyAdvice
+2020-04-05 09:21:09,712  | Detected ResponseBodyAdvice bean in fastJsonViewResponseBodyAdvice
+2020-04-05 09:21:09,777  | Looking for @ControllerAdvice: WebApplicationContext for namespace 'springDispatcherServlet-servlet': startup date [Sun Apr 05 09:21:08 CST 2020]; parent: Root WebApplicationContext
+2020-04-05 09:21:09,780  | Detected ResponseBodyAdvice bean in JSONPResponseBodyAdvice
+2020-04-05 09:21:09,780  | Detected ResponseBodyAdvice bean in fastJsonpResponseBodyAdvice
+2020-04-05 09:21:09,780  | Detected ResponseBodyAdvice bean in fastJsonViewResponseBodyAdvice
+2020-04-05 09:21:09,822  | Detected ResponseBodyAdvice implementation in JSONPResponseBodyAdvice
+2020-04-05 09:21:09,822  | Detected ResponseBodyAdvice implementation in fastJsonpResponseBodyAdvice
+2020-04-05 09:21:09,823  | Detected ResponseBodyAdvice implementation in fastJsonViewResponseBodyAdvice
+2020-04-05 09:21:09,892  | Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2020-04-05 09:21:09,975  | Detected ResponseBodyAdvice implementation in JSONPResponseBodyAdvice
+2020-04-05 09:21:09,976  | Detected ResponseBodyAdvice implementation in fastJsonpResponseBodyAdvice
+2020-04-05 09:21:09,976  | Detected ResponseBodyAdvice implementation in fastJsonViewResponseBodyAdvice
+2020-04-05 09:21:10,013  | Mapped URL path [/assets/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2020-04-05 09:21:10,016  | Mapped URL path [/css/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#1'
+2020-04-05 09:21:10,021  | Mapped URL path [/images/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#2'
+2020-04-05 09:21:10,024  | Mapped URL path [/img/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#3'
+2020-04-05 09:21:10,027  | Mapped URL path [/js/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#4'
+2020-04-05 09:21:10,030  | Mapped URL path [/fonts/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#5'
+2020-04-05 09:21:10,035  | Mapped URL path [/download/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#6'
+2020-04-05 09:21:10,039  | Mapped URL path [/theme/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#7'
+2020-04-05 09:21:10,193  | FrameworkServlet 'springDispatcherServlet': initialization completed in 1274 ms
+2020-04-05 10:55:16,317  | 有新连接加入！当前在线人数为1
+2020-04-05 10:55:16,319  | 加入用户为：【小刘】
+2020-04-05 10:55:29,630  | 来自客户端的消息:heartBeat
+2020-04-05 10:55:40,583  | 来自客户端的消息:heartBeat
+2020-04-05 10:55:51,622  | 来自客户端的消息:heartBeat
+2020-04-05 10:56:03,592  | 来自客户端的消息:heartBeat
+2020-04-05 10:56:14,574  | 来自客户端的消息:heartBeat
+2020-04-05 10:56:25,623  | 来自客户端的消息:heartBeat
+2020-04-05 10:56:36,582  | 来自客户端的消息:heartBeat
+2020-04-05 10:56:47,622  | 来自客户端的消息:heartBeat
+2020-04-05 10:57:00,182  | 来自客户端的消息:heartBeat
+2020-04-05 10:57:11,623  | 来自客户端的消息:heartBeat
+2020-04-05 10:57:20,917  | 有新连接加入！当前在线人数为2
+2020-04-05 10:57:20,917  | 加入用户为：【信佳昕】
+2020-04-05 10:57:22,262  | 来自客户端的消息:heartBeat
+2020-04-05 10:57:32,908  | 来自客户端的消息:heartBeat
+2020-04-05 10:57:33,043  | 来自客户端的消息:{"msg":"你好","name":"信佳昕","subject":"小刘"}
+2020-04-05 10:57:34,782  | 来自客户端的消息:heartBeat
+2020-04-05 10:57:43,783  | 来自客户端的消息:heartBeat
+2020-04-05 10:57:45,463  | 来自客户端的消息:heartBeat
+2020-04-05 10:57:46,785  | 来自客户端的消息:{"msg":"在","name":"小刘","subject":"信佳昕"}
+2020-04-05 10:57:54,422  | 来自客户端的消息:heartBeat
+2020-04-05 10:57:57,423  | 来自客户端的消息:heartBeat
+2020-04-05 10:58:05,063  | 来自客户端的消息:heartBeat
+2020-04-05 10:58:08,461  | 来自客户端的消息:heartBeat
+2020-04-05 10:58:16,225  | 来自客户端的消息:heartBeat
+2020-04-05 10:58:19,503  | 来自客户端的消息:heartBeat
+2020-04-05 10:58:26,876  | 来自客户端的消息:heartBeat
+2020-04-05 10:58:37,543  | 来自客户端的消息:heartBeat
+2020-04-05 10:58:48,183  | 来自客户端的消息:heartBeat
+2020-04-05 10:58:58,823  | 来自客户端的消息:heartBeat
+2020-04-05 10:59:09,471  | 来自客户端的消息:heartBeat
+2020-04-05 10:59:20,106  | 来自客户端的消息:heartBeat
+2020-04-05 10:59:30,743  | 来自客户端的消息:heartBeat
+2020-04-05 10:59:41,383  | 来自客户端的消息:heartBeat
+2020-04-05 10:59:52,022  | 来自客户端的消息:heartBeat
+2020-04-05 11:00:10,621  | 来自客户端的消息:heartBeat
+2020-04-05 11:00:13,942  | 来自客户端的消息:heartBeat
+2020-04-05 11:00:22,142  | 来自客户端的消息:heartBeat
+2020-04-05 11:00:25,382  | 来自客户端的消息:heartBeat
+2020-04-05 11:00:33,555  | 来自客户端的消息:heartBeat
+2020-04-05 11:00:36,023  | 来自客户端的消息:heartBeat
+2020-04-05 11:00:44,502  | 来自客户端的消息:heartBeat
+2020-04-05 11:00:46,662  | 来自客户端的消息:heartBeat
+2020-04-05 11:00:55,544  | 来自客户端的消息:heartBeat
+2020-04-05 11:00:57,279  | 来自客户端的消息:heartBeat
+2020-04-05 11:01:06,510  | 来自客户端的消息:heartBeat
+2020-04-05 11:01:07,941  | 来自客户端的消息:heartBeat
+2020-04-05 11:01:17,563  | 来自客户端的消息:heartBeat
+2020-04-05 11:01:18,849  | 来自客户端的消息:heartBeat
+2020-04-05 11:01:28,472  | 来自客户端的消息:heartBeat
+2020-04-05 11:01:29,513  | 来自客户端的消息:heartBeat
+2020-04-05 11:01:39,510  | 来自客户端的消息:heartBeat
+2020-04-05 11:01:40,675  | 来自客户端的消息:heartBeat
+2020-04-05 11:01:50,444  | 来自客户端的消息:heartBeat
+2020-04-05 11:01:51,048  | 有一连接关闭！当前在线人数为1
+2020-04-05 11:01:51,352  | 来自客户端的消息:heartBeat
+2020-04-05 11:02:01,963  | 来自客户端的消息:heartBeat
+2020-04-05 11:02:12,630  | 来自客户端的消息:heartBeat
+2020-04-05 11:02:23,274  | 来自客户端的消息:heartBeat
+2020-04-05 11:02:33,910  | 来自客户端的消息:heartBeat
+2020-04-05 11:02:44,550  | 来自客户端的消息:heartBeat
+2020-04-05 11:02:55,198  | 来自客户端的消息:heartBeat
+2020-04-05 11:03:05,829  | 来自客户端的消息:heartBeat
+2020-04-05 11:03:16,548  | 来自客户端的消息:heartBeat
+2020-04-05 11:03:27,189  | 来自客户端的消息:heartBeat
+2020-04-05 11:03:37,830  | 来自客户端的消息:heartBeat
+2020-04-05 11:03:48,471  | 来自客户端的消息:heartBeat
+2020-04-05 11:03:59,109  | 来自客户端的消息:heartBeat
+2020-04-05 11:04:09,749  | 来自客户端的消息:heartBeat
+2020-04-05 11:04:20,398  | 来自客户端的消息:heartBeat
+2020-04-05 11:04:31,711  | 来自客户端的消息:heartBeat
+2020-04-05 11:04:42,348  | 来自客户端的消息:heartBeat
+2020-04-05 11:04:52,998  | 来自客户端的消息:heartBeat
+2020-04-05 11:05:03,631  | 来自客户端的消息:heartBeat
+2020-04-05 11:05:13,751  | 来自客户端的消息:{"msg":"在","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:05:14,271  | 来自客户端的消息:heartBeat
+2020-04-05 11:05:17,084  | 来自客户端的消息:{"msg":"在","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:05:20,762  | 来自客户端的消息:{"msg":"在","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:05:31,590  | 来自客户端的消息:heartBeat
+2020-04-05 11:05:42,629  | 来自客户端的消息:heartBeat
+2020-04-05 11:05:53,598  | 来自客户端的消息:heartBeat
+2020-04-05 11:06:04,629  | 来自客户端的消息:heartBeat
+2020-04-05 11:06:15,605  | 来自客户端的消息:heartBeat
+2020-04-05 11:06:26,630  | 来自客户端的消息:heartBeat
+2020-04-05 11:06:37,588  | 来自客户端的消息:heartBeat
+2020-04-05 11:06:48,590  | 来自客户端的消息:heartBeat
+2020-04-05 11:06:59,589  | 来自客户端的消息:heartBeat
+2020-04-05 11:07:10,628  | 来自客户端的消息:heartBeat
+2020-04-05 11:07:21,590  | 来自客户端的消息:heartBeat
+2020-04-05 11:07:32,628  | 来自客户端的消息:heartBeat
+2020-04-05 11:07:44,070  | 来自客户端的消息:heartBeat
+2020-04-05 11:07:55,551  | 来自客户端的消息:heartBeat
+2020-04-05 11:08:06,527  | 来自客户端的消息:heartBeat
+2020-04-05 11:08:18,025  | 来自客户端的消息:heartBeat
+2020-04-05 11:08:29,528  | 来自客户端的消息:heartBeat
+2020-04-05 11:08:40,531  | 来自客户端的消息:heartBeat
+2020-04-05 11:08:51,537  | 来自客户端的消息:heartBeat
+2020-04-05 11:09:02,632  | 来自客户端的消息:heartBeat
+2020-04-05 11:09:13,605  | 来自客户端的消息:heartBeat
+2020-04-05 11:09:20,790  | 有一连接关闭！当前在线人数为0
+2020-04-05 11:09:55,753  | 有新连接加入！当前在线人数为1
+2020-04-05 11:09:55,753  | 加入用户为：【小刘】
+2020-04-05 11:10:08,149  | 来自客户端的消息:heartBeat
+2020-04-05 11:10:16,392  | 有新连接加入！当前在线人数为2
+2020-04-05 11:10:16,392  | 加入用户为：【信佳昕】
+2020-04-05 11:10:18,789  | 来自客户端的消息:heartBeat
+2020-04-05 11:10:30,109  | 来自客户端的消息:heartBeat
+2020-04-05 11:10:40,789  | 来自客户端的消息:heartBeat
+2020-04-05 11:10:45,828  | 来自客户端的消息:heartBeat
+2020-04-05 11:10:51,429  | 来自客户端的消息:heartBeat
+2020-04-05 11:10:56,348  | 来自客户端的消息:heartBeat
+2020-04-05 11:11:02,069  | 来自客户端的消息:heartBeat
+2020-04-05 11:11:06,909  | 来自客户端的消息:heartBeat
+2020-04-05 11:11:12,709  | 来自客户端的消息:heartBeat
+2020-04-05 11:11:16,788  | 来自客户端的消息:{"msg":"我看到你了","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:11:23,350  | 来自客户端的消息:heartBeat
+2020-04-05 11:11:27,312  | 来自客户端的消息:heartBeat
+2020-04-05 11:11:33,987  | 来自客户端的消息:heartBeat
+2020-04-05 11:11:37,437  | 来自客户端的消息:{"msg":"所以这里直接可以聊天吗","name":"信佳昕","subject":"刘帆"}
+2020-04-05 11:11:37,988  | 来自客户端的消息:heartBeat
+2020-04-05 11:11:44,707  | 来自客户端的消息:heartBeat
+2020-04-05 11:11:48,550  | 来自客户端的消息:{"msg":"在干嘛","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:11:48,747  | 来自客户端的消息:heartBeat
+2020-04-05 11:11:55,349  | 来自客户端的消息:heartBeat
+2020-04-05 11:11:59,307  | 来自客户端的消息:heartBeat
+2020-04-05 11:12:05,988  | 来自客户端的消息:heartBeat
+2020-04-05 11:12:09,869  | 来自客户端的消息:heartBeat
+2020-04-05 11:12:11,869  | 来自客户端的消息:{"msg":"你能看到我回的消息吗","name":"信佳昕","subject":"刘帆"}
+2020-04-05 11:12:16,630  | 来自客户端的消息:heartBeat
+2020-04-05 11:12:16,708  | 来自客户端的消息:{"msg":"哈哈哈","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:12:19,948  | 来自客户端的消息:{"msg":"你能看到我回的消息吗","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:12:27,229  | 来自客户端的消息:heartBeat
+2020-04-05 11:12:30,627  | 来自客户端的消息:heartBeat
+2020-04-05 11:12:37,788  | 来自客户端的消息:heartBeat
+2020-04-05 11:12:41,269  | 来自客户端的消息:heartBeat
+2020-04-05 11:12:48,348  | 来自客户端的消息:heartBeat
+2020-04-05 11:12:51,916  | 来自客户端的消息:heartBeat
+2020-04-05 11:12:55,592  | 来自客户端的消息:{"msg":"真棒","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:13:02,547  | 来自客户端的消息:heartBeat
+2020-04-05 11:13:04,192  | 来自客户端的消息:{"msg":"以后不用微信了","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:13:13,188  | 来自客户端的消息:heartBeat
+2020-04-05 11:13:14,509  | 来自客户端的消息:{"msg":"小刘同学厉害！","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:13:14,708  | 来自客户端的消息:heartBeat
+2020-04-05 11:13:25,148  | 来自客户端的消息:heartBeat
+2020-04-05 11:13:25,188  | 来自客户端的消息:heartBeat
+2020-04-05 11:13:35,667  | 来自客户端的消息:heartBeat
+2020-04-05 11:13:35,789  | 来自客户端的消息:heartBeat
+2020-04-05 11:13:38,348  | 来自客户端的消息:{"msg":"这怎么做出来的呀","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:13:44,069  | 来自客户端的消息:{"msg":"哈哈 谦虚谦虚","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:13:49,028  | 来自客户端的消息:heartBeat
+2020-04-05 11:13:54,587  | 来自客户端的消息:heartBeat
+2020-04-05 11:13:59,668  | 来自客户端的消息:heartBeat
+2020-04-05 11:14:05,147  | 来自客户端的消息:heartBeat
+2020-04-05 11:14:11,827  | 来自客户端的消息:heartBeat
+2020-04-05 11:14:16,428  | 来自客户端的消息:heartBeat
+2020-04-05 11:14:18,548  | 来自客户端的消息:{"msg":"所以这个是只有两个人才能登录吗哈哈","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:14:27,113  | 来自客户端的消息:heartBeat
+2020-04-05 11:14:29,147  | 来自客户端的消息:heartBeat
+2020-04-05 11:14:30,866  | 来自客户端的消息:{"msg":"我以前对微信实现就有兴趣","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:14:40,468  | 来自客户端的消息:heartBeat
+2020-04-05 11:14:42,028  | 来自客户端的消息:heartBeat
+2020-04-05 11:14:48,786  | 来自客户端的消息:{"msg":"然后之前说让你看个web","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:14:51,108  | 来自客户端的消息:heartBeat
+2020-04-05 11:14:59,307  | 来自客户端的消息:heartBeat
+2020-04-05 11:15:01,068  | 来自客户端的消息:{"msg":"昨晚和今早上弄个这","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:15:01,828  | 来自客户端的消息:heartBeat
+2020-04-05 11:15:11,589  | 来自客户端的消息:heartBeat
+2020-04-05 11:15:12,468  | 来自客户端的消息:heartBeat
+2020-04-05 11:15:22,107  | 来自客户端的消息:heartBeat
+2020-04-05 11:15:23,828  | 来自客户端的消息:heartBeat
+2020-04-05 11:15:25,108  | 来自客户端的消息:{"msg":"让你顺便了解我未来将从事的工作","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:15:35,630  | 来自客户端的消息:heartBeat
+2020-04-05 11:15:36,067  | 来自客户端的消息:heartBeat
+2020-04-05 11:15:42,986  | 来自客户端的消息:{"msg":"可以把爸爸妈妈拉进来","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:15:47,437  | 来自客户端的消息:heartBeat
+2020-04-05 11:15:54,107  | 来自客户端的消息:heartBeat
+2020-04-05 11:15:54,510  | 来自客户端的消息:{"msg":"想几个人都行","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:15:58,147  | 来自客户端的消息:heartBeat
+2020-04-05 11:16:05,027  | 来自客户端的消息:heartBeat
+2020-04-05 11:16:06,269  | 来自客户端的消息:{"msg":"哦哦  还是算了 哈哈","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:16:15,508  | 来自客户端的消息:heartBeat
+2020-04-05 11:16:16,948  | 来自客户端的消息:heartBeat
+2020-04-05 11:16:26,029  | 来自客户端的消息:heartBeat
+2020-04-05 11:16:27,114  | 来自客户端的消息:{"msg":"点对点即时通讯","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:16:27,588  | 来自客户端的消息:heartBeat
+2020-04-05 11:16:37,628  | 来自客户端的消息:heartBeat
+2020-04-05 11:16:38,228  | 来自客户端的消息:heartBeat
+2020-04-05 11:16:44,788  | 来自客户端的消息:{"msg":"微信底层就是这么来的","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:16:48,866  | 来自客户端的消息:heartBeat
+2020-04-05 11:16:55,312  | 来自客户端的消息:heartBeat
+2020-04-05 11:16:57,869  | 来自客户端的消息:{"msg":"你那边有头像是吧","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:16:59,509  | 来自客户端的消息:heartBeat
+2020-04-05 11:17:05,427  | 来自客户端的消息:{"msg":"莫名有一种专属聊天APP的感觉  很奈斯","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:17:09,068  | 来自客户端的消息:heartBeat
+2020-04-05 11:17:14,429  | 来自客户端的消息:{"msg":"嗯嗯 有","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:17:19,627  | 来自客户端的消息:heartBeat
+2020-04-05 11:17:23,026  | 来自客户端的消息:{"msg":"你看这域名","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:17:25,106  | 来自客户端的消息:heartBeat
+2020-04-05 11:17:30,789  | 来自客户端的消息:{"msg":"本来就是专属的","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:17:35,747  | 来自客户端的消息:heartBeat
+2020-04-05 11:17:41,428  | 来自客户端的消息:heartBeat
+2020-04-05 11:17:44,147  | 来自客户端的消息:{"msg":"看到了  xinchat是吗  哈哈哈 很用心了","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:17:50,628  | 来自客户端的消息:{"msg":"未来你可以在上面提功能需求","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:17:54,787  | 来自客户端的消息:heartBeat
+2020-04-05 11:18:01,146  | 来自客户端的消息:heartBeat
+2020-04-05 11:18:06,347  | 来自客户端的消息:heartBeat
+2020-04-05 11:18:06,348  | 来自客户端的消息:{"msg":"我可以持续进行开发和维护","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:18:15,346  | 来自客户端的消息:{"msg":"然后及时上线","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:18:17,028  | 来自客户端的消息:heartBeat
+2020-04-05 11:18:25,868  | 来自客户端的消息:heartBeat
+2020-04-05 11:18:26,987  | 来自客户端的消息:{"msg":"哈哈 赞","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:18:36,433  | 来自客户端的消息:heartBeat
+2020-04-05 11:18:37,666  | 来自客户端的消息:heartBeat
+2020-04-05 11:18:47,027  | 来自客户端的消息:heartBeat
+2020-04-05 11:18:48,308  | 来自客户端的消息:heartBeat
+2020-04-05 11:18:57,548  | 来自客户端的消息:heartBeat
+2020-04-05 11:19:02,189  | 来自客户端的消息:heartBeat
+2020-04-05 11:19:03,987  | 来自客户端的消息:{"msg":"比如你可以说你要加什么功能","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:19:12,866  | 来自客户端的消息:heartBeat
+2020-04-05 11:19:14,516  | 来自客户端的消息:heartBeat
+2020-04-05 11:19:23,511  | 来自客户端的消息:heartBeat
+2020-04-05 11:19:25,066  | 来自客户端的消息:heartBeat
+2020-04-05 11:19:29,586  | 来自客户端的消息:{"msg":"哈哈","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:19:34,148  | 来自客户端的消息:heartBeat
+2020-04-05 11:19:40,787  | 来自客户端的消息:heartBeat
+2020-04-05 11:19:44,788  | 来自客户端的消息:heartBeat
+2020-04-05 11:19:45,787  | 来自客户端的消息:{"msg":"那必须是要加上可以发送表情包的功能","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:19:51,314  | 来自客户端的消息:heartBeat
+2020-04-05 11:19:57,267  | 来自客户端的消息:heartBeat
+2020-04-05 11:19:58,228  | 来自客户端的消息:{"msg":"好","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:20:02,027  | 来自客户端的消息:{"msg":"哈哈哈","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:20:08,748  | 来自客户端的消息:heartBeat
+2020-04-05 11:20:12,715  | 来自客户端的消息:heartBeat
+2020-04-05 11:20:20,307  | 来自客户端的消息:heartBeat
+2020-04-05 11:20:23,346  | 来自客户端的消息:heartBeat
+2020-04-05 11:20:30,829  | 来自客户端的消息:heartBeat
+2020-04-05 11:20:33,987  | 来自客户端的消息:heartBeat
+2020-04-05 11:20:38,226  | 来自客户端的消息:{"msg":"今后那咱就不用微信了？","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:20:45,507  | 来自客户端的消息:heartBeat
+2020-04-05 11:20:48,747  | 来自客户端的消息:heartBeat
+2020-04-05 11:20:58,586  | 来自客户端的消息:heartBeat
+2020-04-05 11:20:59,318  | 来自客户端的消息:heartBeat
+2020-04-05 11:21:09,269  | 来自客户端的消息:heartBeat
+2020-04-05 11:21:09,868  | 来自客户端的消息:heartBeat
+2020-04-05 11:21:13,026  | 来自客户端的消息:{"msg":"我把聊天记录存到数据库里面","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:21:19,946  | 来自客户端的消息:heartBeat
+2020-04-05 11:21:23,547  | 来自客户端的消息:heartBeat
+2020-04-05 11:21:27,267  | 来自客户端的消息:{"msg":"然后未来聊天记录也会得到备份","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:21:30,546  | 来自客户端的消息:heartBeat
+2020-04-05 11:21:37,787  | 来自客户端的消息:heartBeat
+2020-04-05 11:21:41,187  | 来自客户端的消息:heartBeat
+2020-04-05 11:21:42,189  | 来自客户端的消息:{"msg":"还能存聊天记录呀","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:21:48,346  | 来自客户端的消息:heartBeat
+2020-04-05 11:21:49,986  | 来自客户端的消息:{"msg":"肯定啊","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:21:52,866  | 来自客户端的消息:heartBeat
+2020-04-05 11:21:55,827  | 来自客户端的消息:{"msg":"只有你想不到","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:22:03,507  | 来自客户端的消息:heartBeat
+2020-04-05 11:22:05,345  | 来自客户端的消息:{"msg":"没有做不出来的东西","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:22:12,386  | 来自客户端的消息:{"msg":"可以呀  就当给你当客户 然后及时反馈哈哈哈","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:22:15,909  | 来自客户端的消息:heartBeat
+2020-04-05 11:22:23,026  | 来自客户端的消息:heartBeat
+2020-04-05 11:22:23,745  | 来自客户端的消息:{"msg":"我还可以给你搞个人脸识别 让你登陆这个xin chat","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:22:33,668  | 来自客户端的消息:heartBeat
+2020-04-05 11:22:34,267  | 来自客户端的消息:heartBeat
+2020-04-05 11:22:38,706  | 来自客户端的消息:{"msg":"那还是算了","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:22:45,586  | 来自客户端的消息:heartBeat
+2020-04-05 11:22:46,067  | 来自客户端的消息:{"msg":"哈哈哈","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:22:56,115  | 来自客户端的消息:heartBeat
+2020-04-05 11:22:56,706  | 来自客户端的消息:heartBeat
+2020-04-05 11:22:58,226  | 来自客户端的消息:{"msg":"你是在电脑上登陆的是嘛","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:23:05,267  | 来自客户端的消息:{"msg":"嗯嗯 对","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:23:09,667  | 来自客户端的消息:heartBeat
+2020-04-05 11:23:15,907  | 来自客户端的消息:heartBeat
+2020-04-05 11:23:20,187  | 来自客户端的消息:heartBeat
+2020-04-05 11:23:24,466  | 来自客户端的消息:{"msg":"你还可以把电脑的这个退了","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:23:28,345  | 来自客户端的消息:heartBeat
+2020-04-05 11:23:32,268  | 来自客户端的消息:{"msg":"然后登陆在手机上","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:23:39,035  | 来自客户端的消息:heartBeat
+2020-04-05 11:23:42,791  | 来自客户端的消息:heartBeat
+2020-04-05 11:23:47,747  | 来自客户端的消息:{"msg":"那我试试","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:23:52,786  | 来自客户端的消息:{"msg":"嗯嗯","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:23:53,314  | 来自客户端的消息:heartBeat
+2020-04-05 11:23:58,386  | 来自客户端的消息:heartBeat
+2020-04-05 11:24:01,026  | 来自客户端的消息:{"msg":"退就直接关掉页面吗","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:24:03,866  | 来自客户端的消息:heartBeat
+2020-04-05 11:24:12,465  | 来自客户端的消息:heartBeat
+2020-04-05 11:24:14,425  | 来自客户端的消息:heartBeat
+2020-04-05 11:24:14,988  | 来自客户端的消息:{"msg":"目前只有咱们两个可以用这系统","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:24:20,630  | 来自客户端的消息:{"msg":"是","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:24:23,106  | 来自客户端的消息:heartBeat
+2020-04-05 11:24:25,146  | 有一连接关闭！当前在线人数为1
+2020-04-05 11:24:27,346  | 来自客户端的消息:{"msg":"直接关闭就行","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:24:33,004  | 有新连接加入！当前在线人数为2
+2020-04-05 11:24:33,004  | 加入用户为：【信佳昕】
+2020-04-05 11:24:38,707  | 来自客户端的消息:heartBeat
+2020-04-05 11:24:47,228  | 来自客户端的消息:heartBeat
+2020-04-05 11:24:49,348  | 来自客户端的消息:heartBeat
+2020-04-05 11:24:51,108  | 来自客户端的消息:{"msg":"登上啦","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:24:58,035  | 来自客户端的消息:heartBeat
+2020-04-05 11:25:01,345  | 有一连接关闭！当前在线人数为1
+2020-04-05 11:25:02,546  | 来自客户端的消息:heartBeat
+2020-04-05 11:25:03,745  | 来自客户端的消息:{"msg":"哈哈哈哈哈","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:25:07,947  | 来自客户端的消息:{"msg":"哈哈哈哈哈","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:25:11,752  | 有新连接加入！当前在线人数为2
+2020-04-05 11:25:11,752  | 加入用户为：【信佳昕】
+2020-04-05 11:25:15,986  | 来自客户端的消息:{"msg":"哈哈哈哈哈","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:25:18,549  | 来自客户端的消息:heartBeat
+2020-04-05 11:25:21,507  | 来自客户端的消息:{"msg":"那就好","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:25:29,985  | 来自客户端的消息:heartBeat
+2020-04-05 11:25:32,026  | 来自客户端的消息:heartBeat
+2020-04-05 11:25:32,226  | 来自客户端的消息:{"msg":"这个web是不是很神奇","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:25:41,429  | 来自客户端的消息:heartBeat
+2020-04-05 11:25:42,763  | 来自客户端的消息:heartBeat
+2020-04-05 11:25:50,587  | 来自客户端的消息:{"msg":"神奇到家啦","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:25:53,442  | 来自客户端的消息:heartBeat
+2020-04-05 11:26:01,267  | 来自客户端的消息:heartBeat
+2020-04-05 11:26:04,030  | 来自客户端的消息:heartBeat
+2020-04-05 11:26:11,865  | 来自客户端的消息:heartBeat
+2020-04-05 11:26:15,466  | 来自客户端的消息:heartBeat
+2020-04-05 11:26:18,867  | 来自客户端的消息:{"msg":"这个web还可以用来做微信公众号开发","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:26:22,517  | 来自客户端的消息:heartBeat
+2020-04-05 11:26:22,866  | 来自客户端的消息:{"msg":"相当于微信被你做出来了😂 ","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:26:29,387  | 来自客户端的消息:heartBeat
+2020-04-05 11:26:32,156  | 来自客户端的消息:{"msg":"比如你要是将来开通个公众号","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:26:34,306  | 来自客户端的消息:heartBeat
+2020-04-05 11:26:42,745  | 来自客户端的消息:heartBeat
+2020-04-05 11:26:44,947  | 来自客户端的消息:heartBeat
+2020-04-05 11:26:52,305  | 来自客户端的消息:{"msg":"我就可以给你弄界面，弄功能","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:26:56,386  | 来自客户端的消息:heartBeat
+2020-04-05 11:27:02,931  | 来自客户端的消息:heartBeat
+2020-04-05 11:27:07,267  | 来自客户端的消息:heartBeat
+2020-04-05 11:27:14,090  | 来自客户端的消息:heartBeat
+2020-04-05 11:27:18,316  | 来自客户端的消息:heartBeat
+2020-04-05 11:27:24,795  | 来自客户端的消息:heartBeat
+2020-04-05 11:27:29,118  | 来自客户端的消息:heartBeat
+2020-04-05 11:27:35,306  | 来自客户端的消息:heartBeat
+2020-04-05 11:27:40,067  | 来自客户端的消息:heartBeat
+2020-04-05 11:27:42,786  | 来自客户端的消息:{"msg":"索然无味的生活顿时变得有趣起来","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:27:42,868  | 来自客户端的消息:{"msg":"太厉害了","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:27:51,226  | 来自客户端的消息:{"msg":"哈哈哈","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:27:53,325  | 来自客户端的消息:heartBeat
+2020-04-05 11:27:59,985  | 来自客户端的消息:{"msg":"怎么办","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:28:01,828  | 来自客户端的消息:heartBeat
+2020-04-05 11:28:10,586  | 来自客户端的消息:heartBeat
+2020-04-05 11:28:12,465  | 来自客户端的消息:heartBeat
+2020-04-05 11:28:16,705  | 来自客户端的消息:{"msg":"我感觉这个比微信有意思得多","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:28:16,986  | 来自客户端的消息:{"msg":"那你将来的工作也是做这种网页维护吗","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:28:27,665  | 来自客户端的消息:heartBeat
+2020-04-05 11:28:27,985  | 来自客户端的消息:heartBeat
+2020-04-05 11:28:32,304  | 来自客户端的消息:{"msg":"是的","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:28:39,184  | 来自客户端的消息:heartBeat
+2020-04-05 11:28:42,787  | 来自客户端的消息:{"msg":"web开发","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:28:42,945  | 来自客户端的消息:heartBeat
+2020-04-05 11:28:51,507  | 来自客户端的消息:heartBeat
+2020-04-05 11:28:53,466  | 来自客户端的消息:heartBeat
+2020-04-05 11:28:57,266  | 来自客户端的消息:{"msg":"可家用，可商用","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:29:02,985  | 来自客户端的消息:heartBeat
+2020-04-05 11:29:04,546  | 来自客户端的消息:{"msg":"就是这么有趣","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:29:14,698  | 来自客户端的消息:heartBeat
+2020-04-05 11:29:15,106  | 来自客户端的消息:heartBeat
+2020-04-05 11:29:22,386  | 来自客户端的消息:{"msg":"😏 ","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:29:25,625  | 来自客户端的消息:heartBeat
+2020-04-05 11:29:33,025  | 来自客户端的消息:heartBeat
+2020-04-05 11:29:36,224  | 来自客户端的消息:heartBeat
+2020-04-05 11:29:44,465  | 来自客户端的消息:heartBeat
+2020-04-05 11:29:46,857  | 来自客户端的消息:heartBeat
+2020-04-05 11:29:55,105  | 来自客户端的消息:heartBeat
+2020-04-05 11:29:57,505  | 来自客户端的消息:heartBeat
+2020-04-05 11:30:00,881  | 来自客户端的消息:{"msg":"看来我得赶紧加个表情包了","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:30:05,747  | 来自客户端的消息:heartBeat
+2020-04-05 11:30:11,405  | 来自客户端的消息:heartBeat
+2020-04-05 11:30:15,427  | 来自客户端的消息:{"msg":"先加个最基础的","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:30:17,224  | 来自客户端的消息:heartBeat
+2020-04-05 11:30:26,434  | 来自客户端的消息:heartBeat
+2020-04-05 11:30:27,866  | 来自客户端的消息:heartBeat
+2020-04-05 11:30:37,425  | 来自客户端的消息:heartBeat
+2020-04-05 11:30:38,511  | 来自客户端的消息:heartBeat
+2020-04-05 11:30:48,425  | 来自客户端的消息:heartBeat
+2020-04-05 11:30:49,149  | 来自客户端的消息:heartBeat
+2020-04-05 11:30:59,425  | 来自客户端的消息:heartBeat
+2020-04-05 11:30:59,784  | 来自客户端的消息:heartBeat
+2020-04-05 11:31:10,424  | 来自客户端的消息:heartBeat
+2020-04-05 11:31:10,426  | 来自客户端的消息:heartBeat
+2020-04-05 11:31:14,234  | 来自客户端的消息:{"msg":"你小论文这波改完了没","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:31:21,119  | 来自客户端的消息:heartBeat
+2020-04-05 11:31:27,704  | 来自客户端的消息:heartBeat
+2020-04-05 11:31:31,706  | 来自客户端的消息:heartBeat
+2020-04-05 11:31:39,427  | 来自客户端的消息:heartBeat
+2020-04-05 11:31:42,346  | 来自客户端的消息:heartBeat
+2020-04-05 11:31:50,426  | 来自客户端的消息:heartBeat
+2020-04-05 11:31:52,985  | 来自客户端的消息:heartBeat
+2020-04-05 11:32:01,426  | 来自客户端的消息:heartBeat
+2020-04-05 11:32:03,666  | 来自客户端的消息:heartBeat
+2020-04-05 11:32:12,425  | 来自客户端的消息:heartBeat
+2020-04-05 11:32:14,285  | 来自客户端的消息:heartBeat
+2020-04-05 11:32:23,425  | 来自客户端的消息:heartBeat
+2020-04-05 11:32:24,945  | 来自客户端的消息:heartBeat
+2020-04-05 11:32:33,944  | 来自客户端的消息:heartBeat
+2020-04-05 11:32:35,548  | 来自客户端的消息:heartBeat
+2020-04-05 11:32:41,667  | 来自客户端的消息:{"msg":"没有😭 ","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:32:46,665  | 来自客户端的消息:heartBeat
+2020-04-05 11:32:52,306  | 来自客户端的消息:heartBeat
+2020-04-05 11:32:57,187  | 来自客户端的消息:heartBeat
+2020-04-05 11:33:02,944  | 来自客户端的消息:heartBeat
+2020-04-05 11:33:03,824  | 来自客户端的消息:{"msg":"不装表情包感觉聊天都没有灵魂了哈哈哈","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:33:07,706  | 来自客户端的消息:heartBeat
+2020-04-05 11:33:14,466  | 来自客户端的消息:heartBeat
+2020-04-05 11:33:18,265  | 来自客户端的消息:heartBeat
+2020-04-05 11:33:25,184  | 来自客户端的消息:heartBeat
+2020-04-05 11:33:28,944  | 来自客户端的消息:heartBeat
+2020-04-05 11:33:35,825  | 来自客户端的消息:heartBeat
+2020-04-05 11:33:39,464  | 来自客户端的消息:heartBeat
+2020-04-05 11:33:40,625  | 来自客户端的消息:{"msg":"是的 哈哈","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:33:46,475  | 来自客户端的消息:heartBeat
+2020-04-05 11:33:51,865  | 来自客户端的消息:heartBeat
+2020-04-05 11:33:57,105  | 来自客户端的消息:heartBeat
+2020-04-05 11:34:02,664  | 来自客户端的消息:heartBeat
+2020-04-05 11:34:07,743  | 来自客户端的消息:heartBeat
+2020-04-05 11:34:08,545  | 来自客户端的消息:{"msg":"这个我得学习学习","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:34:19,107  | 来自客户端的消息:heartBeat
+2020-04-05 11:34:19,146  | 来自客户端的消息:heartBeat
+2020-04-05 11:34:28,105  | 来自客户端的消息:{"msg":"这个软件我上下线是不是你都能看到","name":"信佳昕","subject":"小刘"}
+2020-04-05 11:34:30,425  | 来自客户端的消息:heartBeat
+2020-04-05 11:34:38,785  | 来自客户端的消息:heartBeat
+2020-04-05 11:34:41,026  | 来自客户端的消息:heartBeat
+2020-04-05 11:34:49,425  | 来自客户端的消息:heartBeat
+2020-04-05 11:34:51,585  | 来自客户端的消息:{"msg":"现在这个网站搭建在我电脑上","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:34:51,945  | 来自客户端的消息:heartBeat
+2020-04-05 11:35:00,864  | 来自客户端的消息:heartBeat
+2020-04-05 11:35:01,265  | 来自客户端的消息:{"msg":"等于我电脑充当了服务器","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:35:08,624  | 来自客户端的消息:{"msg":"你的消息我就能看到","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:35:13,024  | 来自客户端的消息:heartBeat
+2020-04-05 11:35:19,224  | 来自客户端的消息:heartBeat
+2020-04-05 11:35:23,664  | 来自客户端的消息:heartBeat
+2020-04-05 11:35:29,829  | 来自客户端的消息:heartBeat
+2020-04-05 11:35:34,304  | 来自客户端的消息:heartBeat
+2020-04-05 11:35:40,369  | 来自客户端的消息:heartBeat
+2020-04-05 11:35:45,704  | 来自客户端的消息:heartBeat
+2020-04-05 11:35:51,169  | 来自客户端的消息:heartBeat
+2020-04-05 11:35:56,610  | 来自客户端的消息:heartBeat
+2020-04-05 11:36:02,094  | 来自客户端的消息:heartBeat
+2020-04-05 11:36:07,522  | 来自客户端的消息:heartBeat
+2020-04-05 11:36:18,146  | 来自客户端的消息:heartBeat
+2020-04-05 11:36:25,583  | 来自客户端的消息:{"msg":"现在系统消息还没有做加密","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:36:29,353  | 来自客户端的消息:heartBeat
+2020-04-05 11:36:40,156  | 来自客户端的消息:heartBeat
+2020-04-05 11:36:47,523  | 来自客户端的消息:{"msg":"这只是一个简单的原型","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:36:51,009  | 来自客户端的消息:heartBeat
+2020-04-05 11:36:53,425  | 来自客户端的消息:{"msg":"就让你看看效果","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:37:01,745  | 来自客户端的消息:heartBeat
+2020-04-05 11:37:12,624  | 来自客户端的消息:heartBeat
+2020-04-05 11:37:23,338  | 来自客户端的消息:heartBeat
+2020-04-05 11:37:33,987  | 来自客户端的消息:heartBeat
+2020-04-05 11:37:44,905  | 来自客户端的消息:heartBeat
+2020-04-05 11:37:57,267  | 来自客户端的消息:heartBeat
+2020-04-05 11:38:08,743  | 来自客户端的消息:heartBeat
+2020-04-05 11:38:19,425  | 来自客户端的消息:heartBeat
+2020-04-05 11:38:30,144  | 来自客户端的消息:heartBeat
+2020-04-05 11:38:41,158  | 来自客户端的消息:heartBeat
+2020-04-05 11:38:52,155  | 来自客户端的消息:heartBeat
+2020-04-05 11:39:02,782  | 来自客户端的消息:heartBeat
+2020-04-05 11:39:13,663  | 来自客户端的消息:heartBeat
+2020-04-05 11:39:24,308  | 来自客户端的消息:heartBeat
+2020-04-05 11:39:35,184  | 来自客户端的消息:heartBeat
+2020-04-05 11:39:46,824  | 来自客户端的消息:heartBeat
+2020-04-05 11:39:59,049  | 来自客户端的消息:heartBeat
+2020-04-05 11:40:10,857  | 来自客户端的消息:heartBeat
+2020-04-05 11:40:21,966  | 来自客户端的消息:heartBeat
+2020-04-05 11:40:33,463  | 来自客户端的消息:heartBeat
+2020-04-05 11:40:44,145  | 来自客户端的消息:heartBeat
+2020-04-05 11:40:55,104  | 来自客户端的消息:heartBeat
+2020-04-05 11:41:05,744  | 来自客户端的消息:heartBeat
+2020-04-05 11:41:17,343  | 来自客户端的消息:heartBeat
+2020-04-05 11:41:28,065  | 来自客户端的消息:heartBeat
+2020-04-05 11:41:39,284  | 来自客户端的消息:heartBeat
+2020-04-05 11:41:50,122  | 来自客户端的消息:heartBeat
+2020-04-05 11:41:53,425  | 发生错误
+2020-04-05 11:41:53,427  | 有一连接关闭！当前在线人数为1
+2020-04-05 11:42:01,039  | 来自客户端的消息:heartBeat
+2020-04-05 11:42:11,874  | 来自客户端的消息:heartBeat
+2020-04-05 11:42:22,509  | 来自客户端的消息:heartBeat
+2020-04-05 11:42:33,147  | 来自客户端的消息:heartBeat
+2020-04-05 11:42:43,784  | 来自客户端的消息:heartBeat
+2020-04-05 11:42:54,424  | 来自客户端的消息:heartBeat
+2020-04-05 11:43:05,063  | 来自客户端的消息:heartBeat
+2020-04-05 11:43:15,710  | 来自客户端的消息:heartBeat
+2020-04-05 11:43:26,344  | 来自客户端的消息:heartBeat
+2020-04-05 11:43:36,983  | 来自客户端的消息:heartBeat
+2020-04-05 11:43:47,624  | 来自客户端的消息:heartBeat
+2020-04-05 11:43:58,261  | 来自客户端的消息:heartBeat
+2020-04-05 11:44:08,903  | 来自客户端的消息:heartBeat
+2020-04-05 11:44:19,545  | 来自客户端的消息:heartBeat
+2020-04-05 11:44:30,183  | 来自客户端的消息:heartBeat
+2020-04-05 11:44:40,823  | 来自客户端的消息:heartBeat
+2020-04-05 11:44:51,462  | 来自客户端的消息:heartBeat
+2020-04-05 11:45:02,877  | 来自客户端的消息:heartBeat
+2020-04-05 11:45:13,463  | 来自客户端的消息:heartBeat
+2020-04-05 11:45:24,103  | 来自客户端的消息:heartBeat
+2020-04-05 11:45:34,743  | 来自客户端的消息:heartBeat
+2020-04-05 11:45:45,944  | 来自客户端的消息:heartBeat
+2020-04-05 11:45:56,623  | 来自客户端的消息:heartBeat
+2020-04-05 11:46:07,418  | 来自客户端的消息:heartBeat
+2020-04-05 11:46:18,345  | 来自客户端的消息:heartBeat
+2020-04-05 11:46:28,983  | 来自客户端的消息:heartBeat
+2020-04-05 11:46:39,923  | 来自客户端的消息:heartBeat
+2020-04-05 11:46:50,510  | 来自客户端的消息:heartBeat
+2020-04-05 11:47:01,184  | 来自客户端的消息:heartBeat
+2020-04-05 11:47:12,066  | 来自客户端的消息:heartBeat
+2020-04-05 11:47:23,471  | 来自客户端的消息:heartBeat
+2020-04-05 11:47:34,344  | 来自客户端的消息:heartBeat
+2020-04-05 11:47:45,063  | 来自客户端的消息:heartBeat
+2020-04-05 11:47:56,433  | 来自客户端的消息:heartBeat
+2020-04-05 11:48:07,066  | 来自客户端的消息:heartBeat
+2020-04-05 11:48:18,382  | 来自客户端的消息:heartBeat
+2020-04-05 11:48:31,711  | 来自客户端的消息:heartBeat
+2020-04-05 11:48:42,984  | 来自客户端的消息:heartBeat
+2020-04-05 11:48:53,622  | 来自客户端的消息:heartBeat
+2020-04-05 11:49:04,263  | 来自客户端的消息:heartBeat
+2020-04-05 11:49:14,925  | 来自客户端的消息:heartBeat
+2020-04-05 11:49:25,540  | 来自客户端的消息:heartBeat
+2020-04-05 11:49:36,183  | 来自客户端的消息:heartBeat
+2020-04-05 11:49:46,822  | 来自客户端的消息:heartBeat
+2020-04-05 11:49:57,463  | 来自客户端的消息:heartBeat
+2020-04-05 11:50:08,143  | 来自客户端的消息:heartBeat
+2020-04-05 11:50:18,112  | 来自客户端的消息:{"msg":"就让你看看效果","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:50:20,530  | 来自客户端的消息:{"msg":"就让你看看效果","name":"小刘","subject":"信佳昕"}
+2020-04-05 11:50:31,430  | 来自客户端的消息:heartBeat
+2020-04-05 11:50:42,342  | 来自客户端的消息:heartBeat
+2020-04-05 11:50:53,422  | 来自客户端的消息:heartBeat
+2020-04-05 11:51:04,360  | 来自客户端的消息:heartBeat
+2020-04-05 11:51:15,143  | 来自客户端的消息:heartBeat
+2020-04-05 11:51:26,044  | 来自客户端的消息:heartBeat
+2020-04-05 11:51:36,845  | 来自客户端的消息:heartBeat
+2020-04-05 11:51:47,709  | 来自客户端的消息:heartBeat
+2020-04-05 11:51:58,342  | 来自客户端的消息:heartBeat
+2020-04-05 11:52:09,205  | 来自客户端的消息:heartBeat

@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>FirstSSHFrame</groupId>
+  <artifactId>com.interest</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <packaging>war</packaging>
+
+  <name>com.mylove Maven Webapp</name>
+  <!-- FIXME change it to the project's website -->
+  <url>http://www.example.com</url>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <springVersion>4.3.1.RELEASE</springVersion>
+    <hibernateVersion>4.3.5.Final</hibernateVersion>
+    <jstlVersion>1.2</jstlVersion>
+    <taglibVersion>1.1.2</taglibVersion>
+    <servletVersion>3.0-alpha-1</servletVersion>
+    <jsonVersion>1.9.13</jsonVersion>
+    <jacksonVersion>2.5.0</jacksonVersion>
+    <mysqlVersion>5.1.34</mysqlVersion>
+    <c3p0Version>0.9.1.2</c3p0Version>
+    <log4jVersion>1.2.17</log4jVersion>
+    <fileuploadVersion>1.3.1</fileuploadVersion>
+    <lombokVersion>1.16.10</lombokVersion>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <dependencies>
+    <!--单元测试-->
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <version>4.7</version>
+      <scope>test</scope>
+    </dependency>
+    <!-- spring-->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-beans</artifactId>
+      <version>${springVersion}</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-core</artifactId>
+      <version>${springVersion}</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-context</artifactId>
+      <version>${springVersion}</version>
+      <exclusions>
+        <!-- Exclude Commons Logging in favor of SLF4j -->
+        <exclusion>
+          <groupId>commons-logging</groupId>
+          <artifactId>commons-logging</artifactId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-expression</artifactId>
+      <version>${springVersion}</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-aop</artifactId>
+      <version>${springVersion}</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.aspectj</groupId>
+      <artifactId>aspectjweaver</artifactId>
+      <version>1.7.4</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-aspects</artifactId>
+      <version>${springVersion}</version>
+    </dependency>
+
+    <dependency>
+      <groupId>aopalliance</groupId>
+      <artifactId>aopalliance</artifactId>
+      <version>1.0</version>
+    </dependency>
+    <!-- @Inject -->
+    <!--<dependency>-->
+      <!--<groupId>javax.inject</groupId>-->
+      <!--<artifactId>javax.inject</artifactId>-->
+      <!--<version>1</version>-->
+    <!--</dependency>-->
+    <!--&lt;!&ndash; AspectJ &ndash;&gt;-->
+    <dependency>
+      <groupId>org.aspectj</groupId>
+      <artifactId>aspectjrt</artifactId>
+      <version>1.6.10</version>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-orm</artifactId>
+      <version>${springVersion}</version>
+    </dependency>
+    <!-- spring web + spring MVC-->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-web</artifactId>
+      <version>${springVersion}</version>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-webmvc</artifactId>
+      <version>${springVersion}</version>
+    </dependency>
+
+    <!-- jsp页面使用的jstl支持-->
+    <dependency>
+      <groupId>jstl</groupId>
+      <artifactId>jstl</artifactId>
+      <version>${jstlVersion}</version>
+    </dependency>
+    <dependency>
+      <groupId>taglibs</groupId>
+      <artifactId>standard</artifactId>
+      <version>${taglibVersion}</version>
+    </dependency>
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>servlet-api</artifactId>
+      <version>${servletVersion}</version>
+      <scope>provided</scope>
+    </dependency>
+    <!-- 数据库连接池-->
+    <dependency>
+      <groupId>c3p0</groupId>
+      <artifactId>c3p0</artifactId>
+      <version>${c3p0Version}</version>
+    </dependency>
+    <!-- json数据 使springMVC可以返回json值 ,视情况添加-->
+    <dependency>
+      <groupId>org.codehaus.jackson</groupId>
+      <artifactId>jackson-mapper-asl</artifactId>
+      <version>${jsonVersion}</version>
+    </dependency>
+
+    <!--&lt;!&ndash; Jackson可以轻松的将Java对象转换成json对象和xml文档,同样也可以将json、xml转换成Java对象&ndash;&gt;-->
+    <!--<dependency>-->
+      <!--<groupId>com.fasterxml.jackson.core</groupId>-->
+      <!--<artifactId>jackson-core</artifactId>-->
+      <!--<version>${jacksonVersion}</version>-->
+    <!--</dependency>-->
+    <!--<dependency>-->
+      <!--<groupId>com.fasterxml.jackson.core</groupId>-->
+      <!--<artifactId>jackson-annotations</artifactId>-->
+      <!--<version>${jacksonVersion}</version>-->
+    <!--</dependency>-->
+
+    <!--<dependency>-->
+      <!--<groupId>com.fasterxml.jackson.core</groupId>-->
+      <!--<artifactId>jackson-databind</artifactId>-->
+      <!--<version>${jacksonVersion}</version>-->
+    <!--</dependency>-->
+    <dependency>
+      <groupId>com.alibaba</groupId>
+      <artifactId>fastjson</artifactId>
+      <version>1.2.42</version>
+    </dependency>
+    <!--日志打印-->
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.7.21</version>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-log4j12</artifactId>
+      <version>1.7.21</version>
+    </dependency>
+    <!--文件 上传-->
+    <dependency>
+      <groupId>commons-fileupload</groupId>
+      <artifactId>commons-fileupload</artifactId>
+      <version>${fileuploadVersion}</version>
+    </dependency>
+
+    <!-- lombok插件导包-->
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>${lombokVersion}</version>
+      <scope>provided</scope>
+    </dependency>
+
+    <!--SpringDataJPA整合hibernate配置 start-->
+    <!-- 1、DataBase数据库连接 mysql包-->
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>${mysqlVersion}</version>
+    </dependency>
+    <!-- 2、spring-dataJpa-->
+    <dependency>
+      <groupId>org.hibernate.javax.persistence</groupId>
+      <artifactId>hibernate-jpa-2.1-api</artifactId>
+      <version>1.0.0.Final</version>
+    </dependency>
+    <dependency>
+      <groupId>org.springframework.data</groupId>
+      <artifactId>spring-data-jpa</artifactId>
+      <version>1.7.2.RELEASE</version>
+    </dependency>
+    <!--3、jdbc配置-->
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-jdbc</artifactId>
+      <version>${springVersion}</version>
+    </dependency>
+    <!-- 4、hibernate配置-->
+    <dependency>
+      <groupId>org.hibernate</groupId>
+      <artifactId>hibernate-core</artifactId>
+      <version>${hibernateVersion}</version>
+    </dependency>
+    <!-- 5、hibernate 缓存, 视情况添加-->
+    <dependency>
+      <groupId>org.hibernate</groupId>
+      <artifactId>hibernate-ehcache</artifactId>
+      <version>${hibernateVersion}</version>
+    </dependency>
+    <!-- 6、hibernate事务管理-->
+    <dependency>
+      <groupId>org.hibernate</groupId>
+      <artifactId>hibernate-entitymanager</artifactId>
+      <version>${hibernateVersion}</version>
+    </dependency>
+    <!-- 7、queryDslJdbcTemplate的支持-->
+    <dependency>
+      <groupId>org.springframework.data</groupId>
+      <artifactId>spring-data-jdbc-core</artifactId>
+      <version>1.1.0.RELEASE</version>
+    </dependency>
+    <!--8、QueryDSL简化联表查询之第一步-->
+    <dependency>
+      <groupId>com.mysema.querydsl</groupId>
+      <artifactId>querydsl-apt</artifactId>
+      <version>3.6.1</version>
+    </dependency>
+    <dependency>
+      <groupId>com.mysema.querydsl</groupId>
+      <artifactId>querydsl-jpa</artifactId>
+      <version>3.6.1</version>
+    </dependency>
+    <dependency>
+      <groupId>com.mysema.querydsl</groupId>
+      <artifactId>querydsl-sql-spring</artifactId>
+      <version>3.6.1</version>
+    </dependency>
+    <dependency>
+      <groupId>com.mysema.querydsl</groupId>
+      <artifactId>querydsl-sql</artifactId>
+      <version>3.6.1</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.eclipse.persistence</groupId>
+      <artifactId>javax.persistence</artifactId>
+      <version>2.1.0</version>
+    </dependency>
+
+    <dependency>
+      <groupId>io.netty</groupId>
+      <artifactId>netty-all</artifactId>
+      <version>4.0.27.Final</version>
+    </dependency>
+
+    <!--<dependency>-->
+      <!--<groupId>com.github.theborakompanioni</groupId>-->
+      <!--<artifactId>thymeleaf-extras-shiro</artifactId>-->
+      <!--<version>2.0.0</version>-->
+    <!--</dependency>-->
+    <!-- 数据源框架包 -->
+    <!--<dependency>-->
+      <!--<groupId>org.apache.commons</groupId>-->
+      <!--<artifactId>commons-dbcp2</artifactId>-->
+      <!--<version>2.1.1</version>-->
+    <!--</dependency>-->
+    <!--<dependency>-->
+    <!--<groupId>dom4j</groupId>-->
+    <!--<artifactId>dom4j</artifactId>-->
+    <!--<version>1.6.1</version>-->
+    <!--</dependency>-->
+    <!--<dependency>-->
+      <!--<groupId>org.eclipse.jetty.aggregate</groupId>-->
+      <!--<artifactId>jetty-all</artifactId>-->
+      <!--<version>8.1.16.v20140903</version>-->
+      <!--<type>jar</type>-->
+      <!--<scope>provided</scope>-->
+    <!--</dependency>-->
+    <dependency>
+      <groupId>org.eclipse.jetty.aggregate</groupId>
+      <artifactId>jetty-all</artifactId>
+      <version>8.1.16.v20140903</version>
+      <type>jar</type>
+      <scope>provided</scope>
+    </dependency>
+    <!--webSocket引入包-->
+    <dependency>
+      <groupId>javax</groupId>
+      <artifactId>javaee-api</artifactId>
+      <version>8.0</version>
+    </dependency>
+    <dependency>
+      <groupId>javax.websocket</groupId>
+      <artifactId>javax.websocket-api</artifactId>
+      <version>1.1</version>
+    </dependency>
+    <dependency>
+      <groupId>commons-io</groupId>
+      <artifactId>commons-io</artifactId>
+      <version>2.4</version>
+    </dependency>
+    <dependency>
+      <groupId>commons-net</groupId>
+      <artifactId>commons-net</artifactId>
+      <version>3.3</version>
+    </dependency>
+    <!-- 时间操作组件 -->
+    <dependency>
+      <groupId>joda-time</groupId>
+      <artifactId>joda-time</artifactId>
+      <version>2.5</version>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <plugins>
+      <plugin>
+        <artifactId>maven-clean-plugin</artifactId>
+        <version>3.1.0</version>
+      </plugin>
+      <!-- see http://maven.apache.org/ref/current/maven-core/default-bindings.html#Plugin_bindings_for_war_packaging -->
+      <plugin>
+        <artifactId>maven-resources-plugin</artifactId>
+        <version>3.0.2</version>
+      </plugin>
+      <!--<plugin>-->
+      <!--<artifactId>maven-compiler-plugin</artifactId>-->
+      <!--<version>3.8.0</version>-->
+      <!--</plugin>-->
+      <plugin>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>2.22.1</version>
+      </plugin>
+      <plugin>
+        <artifactId>maven-war-plugin</artifactId>
+        <version>3.2.2</version>
+      </plugin>
+      <plugin>
+        <artifactId>maven-install-plugin</artifactId>
+        <version>2.5.2</version>
+      </plugin>
+      <plugin>
+        <artifactId>maven-deploy-plugin</artifactId>
+        <version>2.8.2</version>
+      </plugin>
+      <plugin>
+        <!--<groupId>org.mortbay.jetty</groupId>-->
+        <!--<artifactId>jetty-maven-plugin</artifactId>-->
+        <!--<version>8.1.16.v20140903</version>-->
+        <groupId>org.eclipse.jetty</groupId>
+        <artifactId>jetty-maven-plugin</artifactId>
+        <version>9.3.10.v20160621</version>
+        <configuration>
+          <!--
+         <webAppConfig>
+           <contextPath>8080</contextPath>
+           <defaultsDescriptor>web.xml</defaultsDescriptor>
+         </webAppConfig>
+         <webApp>
+            <contextPath>/</contextPath>
+          </webApp>
+          -->
+
+          <contextXml>${basedir}/src/main/resources/META-INF/JettyConfig/jetty-context.xml</contextXml>
+          <webApp>
+            <contextPath>/</contextPath>
+          </webApp>
+          <reload>automatic</reload>
+          <scanIntervalSeconds>3</scanIntervalSeconds>
+          <stopPort>8123</stopPort>
+          <stopKey></stopKey>
+        </configuration>
+      </plugin>
+      <plugin>
+        <groupId>com.mysema.maven</groupId>
+        <artifactId>apt-maven-plugin</artifactId>
+        <version>1.1.1</version>
+        <executions>
+          <execution>
+            <phase>generate-sources</phase>
+            <goals>
+              <goal>process</goal>
+            </goals>
+            <configuration>
+              <!-- Specifies the directory in which the query types are generated -->
+              <outputDirectory>target/generated-sources</outputDirectory>
+              <!-- States that the APT code generator should look for JPA annotations -->
+              <processor>com.mysema.query.apt.jpa.JPAAnnotationProcessor</processor>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <configuration>
+          <source>1.8</source>
+          <target>1.8</target>
+        </configuration>
+      </plugin>
+      <!--<plugin>-->
+        <!--<groupId>org.apache.maven.plugins</groupId>-->
+        <!--<artifactId>maven-compiler-plugin</artifactId>-->
+        <!--<configuration>-->
+          <!--<source>1.6</source>-->
+          <!--<target>1.6</target>-->
+        <!--</configuration>-->
+      <!--</plugin>-->
+    </plugins>
+  </build>
+</project>
