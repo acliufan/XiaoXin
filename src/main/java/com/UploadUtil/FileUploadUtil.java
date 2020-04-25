@@ -1,6 +1,8 @@
 package com.UploadUtil;
 
-import com.alibaba.fastjson.JSONObject;
+
+
+import net.sf.json.JSONObject;
 
 import java.io.*;
 import java.net.HttpURLConnection;
@@ -11,7 +13,7 @@ import java.net.URL;
  */
 public final class FileUploadUtil {
 
-    public static JSONObject upload(String httpurl, String fileName, InputStream inputStream) {
+   /* public static JSONObject upload(String httpurl, String fileName, InputStream inputStream) {
         String result = "";
         try {
 
@@ -61,13 +63,13 @@ public final class FileUploadUtil {
         } catch (Exception e) {
             System.out.println("发送POST请求出现异常！" + e);
         }
-        return  JSONObject.parseObject(result);
+        return  JSONObject.(result);
     }
-
+*/
     public static void main(String[] args) throws Exception {
         String content ="hellow 中国";
         InputStream ips = new ByteArrayInputStream(content.getBytes("UTF-8"));
-        System.out.println(upload("http://192.168.9.21:8082/fileShare/upload","text.txt",ips));
+//        System.out.println(upload("http://192.168.9.21:8082/fileShare/upload","text.txt",ips));
 
     }
 }

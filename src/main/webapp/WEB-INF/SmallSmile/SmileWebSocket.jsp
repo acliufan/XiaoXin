@@ -47,7 +47,8 @@
 </div>
 <script>
     var websocket = null;
-    var userName="${CurrentUser}";
+    debugger
+    var userName="${currentUser.userName}";
     var VirtualUserName=null;
     var flag=null;//用来判断头像
     if(userName=="信佳昕"){
@@ -70,8 +71,10 @@
     }
     function reconnectWebsocket() {
 //        var websocket = null;
+        debugger
         //判断当前浏览器是否支持WebSocket
         if ('WebSocket' in window) {
+            debugger
             var name = window.location.host;
             websocket = new WebSocket("ws://" + name + "/WebSocket/chat/"+userName);
             //连接发生错误的回调方法

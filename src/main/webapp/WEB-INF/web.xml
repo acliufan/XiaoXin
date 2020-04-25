@@ -4,99 +4,111 @@
          xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
          version="3.0"
          metadata-complete="true">
-<display-name>Archetype Created Web Application</display-name>
-<!-- 地址为http://localhost:8080/  显示的默认网页-->
-  <!--配置welcome-file会访问到web-app目录，的index.jsp目录，别的目录还未拦截到-->
-<!--<welcome-file-list>
-  <welcome-file>/WEB-INF/index.jsp</welcome-file>
-</welcome-file-list>-->
-  <welcome-file-list>
-    <!--<welcome-file>/WEB-INF/index.jsp</welcome-file>-->
-    <welcome-file>/WEB-INF/SmallSmile/Login.jsp</welcome-file>
-  </welcome-file-list>
-<!-- 1、spring MVC config start-->
-<servlet>
-  <servlet-name>springDispatcherServlet</servlet-name>
-  <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
-  <init-param>
-    <param-name>contextConfigLocation</param-name>
-    <!-- 此处指向的的是SpringMVC的配置文件 -->
-    <param-value>classpath:META-INF/spring-mvc.xml</param-value>
-  </init-param>
-  <!--配置容器在启动的时候就加载这个servlet并实例化-->
-  <load-on-startup>1</load-on-startup>
-</servlet>
+    <display-name>Archetype Created Web Application</display-name>
+    <!-- 地址为http://localhost:8080/  显示的默认网页-->
+    <!--配置welcome-file会访问到web-app目录，的index.jsp目录，别的目录还未拦截到-->
+    <!--<welcome-file-list>
+      <welcome-file>/WEB-INF/index.jsp</welcome-file>
+    </welcome-file-list>-->
+    <welcome-file-list>
+        <!--<welcome-file>/WEB-INF/index.jsp</welcome-file>-->
+        <welcome-file>/WEB-INF/SmallSmile/xinchat_login.jsp</welcome-file>
+    </welcome-file-list>
+    <!-- 1、spring MVC config start-->
+    <servlet>
+        <servlet-name>springDispatcherServlet</servlet-name>
+        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+        <init-param>
+            <param-name>contextConfigLocation</param-name>
+            <!-- 此处指向的的是SpringMVC的配置文件 -->
+            <param-value>classpath:META-INF/spring-mvc.xml</param-value>
+        </init-param>
+        <!--配置容器在启动的时候就加载这个servlet并实例化-->
+        <load-on-startup>1</load-on-startup>
+    </servlet>
 
-<servlet-mapping>
-  <!--与上面的 <servlet-name> 要一致-->
-  <servlet-name>springDispatcherServlet</servlet-name>
-  <url-pattern>/</url-pattern>
-   <!--会匹配到/login这样的路径型url，不会匹配到模式为*.jsp这样的后缀型url-->
-  <!--会匹配所有url：路径型的和后缀型的url(包括/login,*.jsp,*.js和*.html等)-->
-</servlet-mapping>
-<!-- spring MVC config end-->
-  <!--配置log4j监听端口 start-->
-  <context-param>
-    <param-name>log4jConfigLocation</param-name>
-    <param-value>/Log/log4j.properties</param-value>
-  </context-param>
+    <servlet-mapping>
+        <!--与上面的 <servlet-name> 要一致-->
+        <servlet-name>springDispatcherServlet</servlet-name>
+        <url-pattern>/</url-pattern>
+        <!--会匹配到/login这样的路径型url，不会匹配到模式为*.jsp这样的后缀型url-->
+        <!--会匹配所有url：路径型的和后缀型的url(包括/login,*.jsp,*.js和*.html等)-->
+    </servlet-mapping>
+    <!-- spring MVC config end-->
+    <!--配置log4j监听端口 start-->
+    <context-param>
+        <param-name>log4jConfigLocation</param-name>
+        <param-value>/Log/log4j.properties</param-value>
+    </context-param>
 
-  <listener>
-    <listener-class>
-      org.springframework.web.util.Log4jConfigListener
-    </listener-class>
-  </listener>
-  <!--配置log4j监听端口 end-->
+    <listener>
+        <listener-class>
+            org.springframework.web.util.Log4jConfigListener
+        </listener-class>
+    </listener>
+    <!--配置log4j监听端口 end-->
 
-  <!--Spring config start-->
-  <!--2、引入Spring配置文件 Spring的监听器  以及 字符集过滤-->
+    <!--Spring config start-->
+    <!--2、引入Spring配置文件 Spring的监听器  以及 字符集过滤-->
 
-  <!-- Spring监听器 -->
-  <listener>
-    <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
-  </listener>
+    <!-- Spring监听器 -->
+    <listener>
+        <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+    </listener>
 
-  <context-param>
-    <param-name>contextConfigLocation</param-name>
-    <param-value>
-      classpath:META-INF/applicationContext.xml
-    </param-value>
-  </context-param>
-  <!--  字符集过滤  -->
-  <filter>
-    <filter-name>encodingFilter</filter-name>
-    <filter-class>org.springframework.web.filter.CharacterEncodingFilter</filter-class>
-    <init-param>
-      <param-name>encoding</param-name>
-      <param-value>UTF-8</param-value>
-    </init-param>
-    <init-param>
-      <param-name>forceEncoding</param-name>
-      <param-value>true</param-value>
-    </init-param>
-  </filter>
-  <filter-mapping>
-    <filter-name>encodingFilter</filter-name>
-    <url-pattern>/*</url-pattern>
-    <!--　　<url-pattern>/</url-pattern>  会匹配到/login这样的路径型url，不会匹配到模式为*.jsp这样的后缀型url-->
-    <!--　　<url-pattern>/*</url-pattern> 会匹配所有url：路径型的和后缀型的url(包括/login,*.jsp,*.js和*.html等)-->
-  </filter-mapping>
-  <!--Spring config end-->
-  <!--注意！！！-->
-  <!--No Spring WebApplicationInitializer types detected on classpath
-  是spring现在建议用户通过重写WebApplicationInitializer类里面的onStartUp方法来进行配置spring
-  所以出现这种提示，不会影响项目使用
-  -->
-  <error-page>
-    <error-code>404</error-code>
-    <location>/WEB-INF/Util/404.jsp</location>
-  </error-page>
-  <error-page>
-    <error-code>500</error-code>
-    <location>/WEB-INF/Util/500.jsp</location>
-  </error-page>
-  <error-page>
-    <exception-type>java.lang.Exception</exception-type>
-    <location>/WEB-INF/Util/error.jsp</location>
-  </error-page>
+    <context-param>
+        <param-name>contextConfigLocation</param-name>
+        <param-value>
+            classpath:META-INF/applicationContext.xml
+        </param-value>
+    </context-param>
+    <!--  字符集过滤  -->
+    <filter>
+        <filter-name>encodingFilter</filter-name>
+        <filter-class>org.springframework.web.filter.CharacterEncodingFilter</filter-class>
+        <init-param>
+            <param-name>encoding</param-name>
+            <param-value>UTF-8</param-value>
+        </init-param>
+        <init-param>
+            <param-name>forceEncoding</param-name>
+            <param-value>true</param-value>
+        </init-param>
+    </filter>
+    <session-config>
+        <session-timeout>20</session-timeout>
+    </session-config>
+    <filter>
+        <display-name>UserFilter</display-name>
+        <filter-name>UserFilter</filter-name>
+        <filter-class>com.CommonUtils.UserFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>UserFilter</filter-name>
+        <url-pattern>*</url-pattern>
+    </filter-mapping>
+    <filter-mapping>
+        <filter-name>encodingFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+        <!--　　<url-pattern>/</url-pattern>  会匹配到/login这样的路径型url，不会匹配到模式为*.jsp这样的后缀型url-->
+        <!--　　<url-pattern>/*</url-pattern> 会匹配所有url：路径型的和后缀型的url(包括/login,*.jsp,*.js和*.html等)-->
+    </filter-mapping>
+    <!--Spring config end-->
+    <!--注意！！！-->
+    <!--No Spring WebApplicationInitializer types detected on classpath
+    是spring现在建议用户通过重写WebApplicationInitializer类里面的onStartUp方法来进行配置spring
+    所以出现这种提示，不会影响项目使用
+    -->
+    <error-page>
+        <error-code>404</error-code>
+        <location>/WEB-INF/Util/404.jsp</location>
+    </error-page>
+    <error-page>
+        <error-code>500</error-code>
+        <location>/WEB-INF/Util/500.jsp</location>
+    </error-page>
+    <error-page>
+        <exception-type>java.lang.Exception</exception-type>
+        <location>/WEB-INF/Util/error.jsp</location>
+    </error-page>
 </web-app>

@@ -1,9 +1,10 @@
 package com.controller.Smile;
 
-import com.alibaba.fastjson.JSONArray;
-import com.alibaba.fastjson.JSONObject;
+
 import com.bean.Person;
 import com.service.TestService;
+import net.sf.json.JSONArray;
+import net.sf.json.JSONObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -45,12 +46,19 @@ public class Welcome {
         model.addAttribute("userName", name);
         return "SmallSmile/SmileMain";
     }
+//    @RequestMapping(value = "ToXinChat")
+//    public String ToSmileChat( Model model,@RequestParam(value = "userName", defaultValue = "") String name)
+//
+//    {
+//        model.addAttribute("userName", name);
+//        return "SmallSmile/SmileWebSocket";
+//    }
     @RequestMapping(value = "ToXinChat")
     public String ToSmileChat( Model model,@RequestParam(value = "userName", defaultValue = "") String name)
 
     {
         model.addAttribute("userName", name);
-        return "SmallSmile/SmileWebSocket";
+        return "SmallSmile/home";
     }
     @RequestMapping(value = "/SmileSubmit",method = RequestMethod.GET)
     @ResponseBody
@@ -105,30 +113,30 @@ public class Welcome {
             }
         }
     }
-    @RequestMapping(value="UserLogin")
-    public void UserLogin(
-            @RequestParam(value = "userName",defaultValue = "")String userName,
-            Model model,
-            HttpSession session,
-            HttpServletResponse response,
-            HttpServletRequest request
-    ){
-        JSONObject tips=new JSONObject();
-        if(userName.isEmpty()){
-            tips.put("result","failed:what?你想空手套白狼？！！");
-        }else if(!userName.isEmpty()&&"信昕".equals(userName)){
-            tips.put("result","failed:想想是不是少了个啥？");
-        }else if(!userName.isEmpty()&&"信佳昕".equals(userName)){
-            tips.put("result","success:欢迎进入Xin Chat！");
-            session.setAttribute("CurrentUser",userName);
-        }else if(!userName.isEmpty()&&"小刘".equals(userName)){
-            tips.put("result","success:欢迎进入Xin Chat！");
-            session.setAttribute("CurrentUser",userName);
-        }
-        else{
-            tips.put("result","failed:给你一秒钟的时间重新思考！");
-        }
-        writer(response, tips);
-        return;
-    }
+//    @RequestMapping(value="UserLogin")
+//    public void UserLogin(
+//            @RequestParam(value = "userName",defaultValue = "")String userName,
+//            Model model,
+//            HttpSession session,
+//            HttpServletResponse response,
+//            HttpServletRequest request
+//    ){
+//        JSONObject tips=new JSONObject();
+//        if(userName.isEmpty()){
+//            tips.put("result","failed:what?你想空手套白狼？！！");
+//        }else if(!userName.isEmpty()&&"信昕".equals(userName)){
+//            tips.put("result","failed:想想是不是少了个啥？");
+//        }else if(!userName.isEmpty()&&"信佳昕".equals(userName)){
+//            tips.put("result","success:欢迎进入Xin Chat！");
+//            session.setAttribute("CurrentUser",userName);
+//        }else if(!userName.isEmpty()&&"小刘".equals(userName)){
+//            tips.put("result","success:欢迎进入Xin Chat！");
+//            session.setAttribute("CurrentUser",userName);
+//        }
+//        else{
+//            tips.put("result","failed:给你一秒钟的时间重新思考！");
+//        }
+//        writer(response, tips);
+//        return;
+//    }
 }

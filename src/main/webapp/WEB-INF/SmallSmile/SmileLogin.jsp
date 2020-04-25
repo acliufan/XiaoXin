@@ -9,7 +9,7 @@
 <%--一旦jsp页面出现错误将跳转到error.jsp页面中--%>
 <html>
 <head>
-    <title>- Smile Zhang</title>
+    <title>- Smile Xin</title>
 </head>
 <body>
 <span class="say" style="color:deepskyblue">此路是我开，要想此路过------emmmm。。。。。</span>

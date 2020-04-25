@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>- Smile Zhang</title>
+    <title>- Smile Xin</title>
     <script src="/js/jquery-2.0.3.min.js"></script>
     <link type="text/css" rel="stylesheet" href="/js/love/default.css">
     <script type="text/javascript" src="/js/CommonPart/CommonUtil.js"></script>
