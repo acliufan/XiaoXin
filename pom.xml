@@ -14,7 +14,7 @@
   <url>http://www.example.com</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <springVersion>4.3.1.RELEASE</springVersion>
+    <springVersion>5.3.19</springVersion>
     <hibernateVersion>4.3.5.Final</hibernateVersion>
     <jstlVersion>1.2</jstlVersion>
     <taglibVersion>1.1.2</taglibVersion>
